@@ -1,39 +1,49 @@
-import { useState } from "react";
+import { useState, useRef } from "react";
 import "./App.css";
 
-function App() 
-{
+function App() {
   const [file, setFile] = useState(null);
-  const [preview, setPreview] = useState(null); 
+  const [preview, setPreview] = useState(null);
   const [caption, setCaption] = useState("");
   const [loading, setLoading] = useState(false);
+  const dropRef = useRef(null);
 
-  const handleFileChange = (e) => 
-    {
-    const selectedFile = e.target.files[0];
-    setFile(selectedFile);
+  const handleFileSelect = (file) => {
+    setFile(file);
+    setPreview(URL.createObjectURL(file));
+  };
 
-    if (selectedFile) 
-      {
-      setPreview(URL.createObjectURL(selectedFile));
-    } 
-    else 
-      {
-      setPreview(null);
+  const handleFileChange = (e) => {
+    if (e.target.files[0]) {
+      handleFileSelect(e.target.files[0]);
     }
   };
 
-  const uploadImage = async () => 
-    {
-    if (!file) return alert("Please select an image.");
+  const handleDragOver = (e) => {
+    e.preventDefault();
+    dropRef.current.classList.add("drag-over");
+  };
+
+  const handleDragLeave = () => {
+    dropRef.current.classList.remove("drag-over");
+  };
+
+  const handleDrop = (e) => {
+    e.preventDefault();
+    dropRef.current.classList.remove("drag-over");
+
+    const droppedFile = e.dataTransfer.files[0];
+    if (droppedFile) handleFileSelect(droppedFile);
+  };
+
+  const uploadImage = async () => {
+    if (!file) return alert("Please upload an image first.");
 
     const formData = new FormData();
-    formData.append("image", file); 
+    formData.append("image", file);
 
     setLoading(true);
-
-    try 
-    {
+    try {
       const res = await fetch("http://localhost:8080/api/caption", {
         method: "POST",
         body: formData,
@@ -41,45 +51,52 @@ function App()
 
       const data = await res.text();
       setCaption(data);
-    }
-     catch (err) 
-     {
+    } catch (err) {
       console.error(err);
-      alert("Failed to get caption");
-    } finally {
-      setLoading(false);
+      alert("Failed to generate caption");
     }
+    setLoading(false);
   };
 
   return (
-    <div style={{ padding: 30 }}>
-      <h2>🖼 Image Caption Generator</h2>
+    <div className="app-container">
+      <div className="card">
 
-      <input
-        type="file"
-        accept="image/*"
-        onChange={handleFileChange}
-      />
+        <h2 className="title">Image Caption Generator</h2>
 
-      {preview && (
-        <div style={{ marginTop: 20 }}>
-          <img
-            src={preview}
-            alt="Preview"
-            style={{ maxWidth: "300px", maxHeight: "300px", border: "1px solid #ccc" }}
+        <div
+          className="drop-zone"
+          ref={dropRef}
+          onDragOver={handleDragOver}
+          onDragLeave={handleDragLeave}
+          onDrop={handleDrop}
+        >
+          <input
+            type="file"
+            accept="image/png, image/jpeg, image/jpg"
+            onChange={handleFileChange}
+            className="file-input"
           />
+
+          <p className="drop-text">
+            {file ? <strong>{file.name}</strong> : <><strong>
+              Click or Drag & Drop</strong> to upload image</>}
+          </p>
+          <p className="formats">PNG • JPG • JPEG</p>
         </div>
-      )}
 
-      <button onClick={uploadImage} disabled={loading} style={{ marginTop: 10 }}>
-        {loading ? "Generating..." : "Generate Caption"}
-      </button>
+        {preview && (
+          <div className="preview-container">
+            <img className="preview-img" src={preview} alt="Preview" />
+          </div>
+        )}
 
-      {caption && (
-        <pre style={{ background: "#000000ff", padding: 10, marginTop: 20 }}>
-          {caption}
-        </pre>
-      )}
+        <button onClick={uploadImage} disabled={loading} className="btn">
+          {loading ? "Generating..." : "Generate Caption"}
+        </button>
+
+        {caption && <div className="caption-box">{caption}</div>}
+      </div>
     </div>
   );
 }

@@ -21,7 +21,11 @@ async def generate_caption(image: UploadFile = File(...)):
         inputs = processor(images=img, return_tensors="pt")
         out = model.generate(**inputs)
         caption = processor.decode(out[0], skip_special_tokens=True)
+       
+        #Capitalize first letter of caption
+        if caption:
+            caption = caption[0].upper() + caption[1:]
+            return JSONResponse(content=[caption])
 
-        return JSONResponse(content={"caption": caption})
     except Exception as e:
         return JSONResponse(status_code=500, content={"error": str(e)})
