@@ -22,9 +22,12 @@ public class CaptionController {
         this.captionService = captionService;
     }
 
-   @PostMapping(consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
-public ResponseEntity<String> caption(@RequestParam("image") MultipartFile file) throws Exception {
-    String caption = captionService.generateCaption(file.getBytes());
-    return ResponseEntity.ok(caption);
-}
+    @PostMapping(consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
+    public ResponseEntity<String> caption(
+            @RequestParam("image") MultipartFile file,
+            @RequestParam("language") String language) throws Exception {
+
+        String caption = captionService.generateCaption(file.getBytes(), language);
+        return ResponseEntity.ok(caption);
+    }
 }

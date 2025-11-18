@@ -12,28 +12,24 @@ import org.springframework.util.MultiValueMap;
 import org.springframework.web.client.RestTemplate;
 
 @Service
-public class CaptionService 
-{
+public class CaptionService {
 
     private final String PYTHON_API_URL = "http://127.0.0.1:8000/caption";
 
-    public String generateCaption(byte[] imageBytes) 
-    {
-        try 
-        {
+    public String generateCaption(byte[] imageBytes, String language) {
+        try {
             RestTemplate restTemplate = new RestTemplate();
 
-            ByteArrayResource imageResource = new ByteArrayResource(imageBytes) 
-            {
+            ByteArrayResource imageResource = new ByteArrayResource(imageBytes) {
                 @Override
-                public String getFilename() 
-                {
+                public String getFilename() {
                     return "upload.jpg";
                 }
             };
 
             MultiValueMap<String, Object> body = new LinkedMultiValueMap<>();
-            body.add("image", imageResource); 
+            body.add("image", imageResource);
+            body.add("language", language); 
 
             HttpHeaders headers = new HttpHeaders();
             headers.setContentType(MediaType.MULTIPART_FORM_DATA);
@@ -45,8 +41,7 @@ public class CaptionService
                     restTemplate.exchange(PYTHON_API_URL, HttpMethod.POST, requestEntity, String.class);
 
             return response.getBody();
-        } catch (Exception e) 
-        {
+        } catch (Exception e) {
             throw new RuntimeException("Caption generation failed: " + e.getMessage(), e);
         }
     }

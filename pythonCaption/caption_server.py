@@ -1,17 +1,19 @@
-from fastapi import FastAPI, UploadFile, File
+from fastapi import FastAPI, UploadFile, File, Form
 from fastapi.responses import JSONResponse
 from transformers import BlipProcessor, BlipForConditionalGeneration
 from PIL import Image
+from googletrans import Translator  
 import io
 
 #Load BLIP model once at startup
 processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-base")
 model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-captioning-base")
+translator = Translator()
 
 app = FastAPI(title="Local Image Caption Generator")
 
 @app.post("/caption")
-async def generate_caption(image: UploadFile = File(...)):  
+async def generate_caption(image: UploadFile = File(...), language: str = Form("en")):  
     try:
         #Read uploaded image
         image_bytes = await image.read()
@@ -21,11 +23,17 @@ async def generate_caption(image: UploadFile = File(...)):
         inputs = processor(images=img, return_tensors="pt")
         out = model.generate(**inputs)
         caption = processor.decode(out[0], skip_special_tokens=True)
-       
-        #Capitalize first letter of caption
+
+        #Capitalize first letter
         if caption:
             caption = caption[0].upper() + caption[1:]
-            return JSONResponse(content=[caption])
+
+        #Translate if language is not English
+        if language != "en":
+            translated = translator.translate(caption, dest=language)
+            caption = translated.text
+
+        return JSONResponse(content=[caption])
 
     except Exception as e:
         return JSONResponse(status_code=500, content={"error": str(e)})

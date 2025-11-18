@@ -6,6 +6,7 @@ function App() {
   const [preview, setPreview] = useState(null);
   const [caption, setCaption] = useState("");
   const [loading, setLoading] = useState(false);
+  const [language, setLanguage] = useState("en"); 
   const dropRef = useRef(null);
 
   const handleFileSelect = (file) => {
@@ -41,6 +42,7 @@ function App() {
 
     const formData = new FormData();
     formData.append("image", file);
+    formData.append("language", language); 
 
     setLoading(true);
     try {
@@ -61,8 +63,28 @@ function App() {
   return (
     <div className="app-container">
       <div className="card">
-
         <h2 className="title">Image Caption Generator</h2>
+
+
+        <div className="language-selector" style={{ marginBottom: "20px" }}>
+          <label htmlFor="language" style={{ color: "#fff", fontWeight: 500, marginRight: "10px" }}>
+            Choose language:
+          </label>
+          <select
+            id="language"
+            value={language}
+            onChange={(e) => setLanguage(e.target.value)}
+            style={{ padding: "6px 10px", borderRadius: "6px", fontSize: "14px" }}
+          >
+            <option value="en">English</option>
+            <option value="es">Spanish</option>
+            <option value="fr">French</option>
+            <option value="de">German</option>
+            <option value="ja">Japanese</option>
+            <option value="hi">Hindi</option>
+            <option value="bs">Bosnian</option>
+          </select>
+        </div>
 
         <div
           className="drop-zone"
@@ -79,8 +101,7 @@ function App() {
           />
 
           <p className="drop-text">
-            {file ? <strong>{file.name}</strong> : <><strong>
-              Click or Drag & Drop</strong> to upload image</>}
+            {file ? <strong>{file.name}</strong> : <><strong>Click or Drag & Drop</strong> to upload image</>}
           </p>
           <p className="formats">PNG • JPG • JPEG</p>
         </div>
@@ -90,6 +111,7 @@ function App() {
             <img className="preview-img" src={preview} alt="Preview" />
           </div>
         )}
+
 
         <button onClick={uploadImage} disabled={loading} className="btn">
           {loading ? "Generating..." : "Generate Caption"}
