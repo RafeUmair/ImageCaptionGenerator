@@ -13,7 +13,7 @@ import com.example.demo.service.CaptionService;
 
 @RestController
 @RequestMapping("/api/caption")
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = {"http://localhost:5173", "http://localhost:3000"})
 public class CaptionController {
 
     private final CaptionService captionService;

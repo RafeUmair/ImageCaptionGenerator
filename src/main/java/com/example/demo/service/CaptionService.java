@@ -1,5 +1,6 @@
 package com.example.demo.service;
 
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.ByteArrayResource;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
@@ -14,7 +15,8 @@ import org.springframework.web.client.RestTemplate;
 @Service
 public class CaptionService {
 
-    private final String PYTHON_API_URL = "http://127.0.0.1:8000/caption";
+    @Value("${python.caption.url:http://python-caption:8000/caption}")
+    private String PYTHON_API_URL;
 
     public String generateCaption(byte[] imageBytes, String language) {
         try {

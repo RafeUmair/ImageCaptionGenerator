@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+  frontend:
+    build: ./frontend/frontend
+    ports:
+      - "3000:80"
+
+  spring:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - PYTHON_CAPTION_URL=http://python-caption:8000/caption
+    depends_on:
+      - python-caption
+
+  python-caption:
+    build: ./pythonCaption
+    ports:
+      - "8000:8000"
