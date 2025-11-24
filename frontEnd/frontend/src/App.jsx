@@ -46,7 +46,7 @@ function App() {
 
     setLoading(true);
     try {
-      const res = await fetch("http://localhost:8080/api/caption", {
+      const res = await fetch("https://imagecaptiongenerator-production.up.railway.app/api/caption", {
         method: "POST",
         body: formData,
       });
