@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+#Model files
+pythonCaption/models/
+*.safetensors
+*.bin
+*.pt
