@@ -5,15 +5,18 @@ from PIL import Image
 from googletrans import Translator  
 import io
 
-#Load BLIP model once at startup
-processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-base")
-model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-captioning-base")
+model_path = "/app/models/blip"
+processor = BlipProcessor.from_pretrained(model_path)
+model = BlipForConditionalGeneration.from_pretrained(model_path)
 translator = Translator()
+
 
 app = FastAPI(title="Local Image Caption Generator")
 
 @app.post("/caption")
-async def generate_caption(image: UploadFile = File(...), language: str = Form("en")):  
+async def generate_caption(image: UploadFile = File(...), 
+                           language: str = Form("en"),
+                            tone: str = Form("normal")):  
     try:
         #Read uploaded image
         image_bytes = await image.read()
@@ -27,6 +30,12 @@ async def generate_caption(image: UploadFile = File(...), language: str = Form("
         #Capitalize first letter
         if caption:
             caption = caption[0].upper() + caption[1:]
+
+        # Tone adjustment - placeholder for future implementation
+        # Currently just returns the original caption regardless of tone
+        if tone != "normal":
+            # TODO: Implement tone adjustment with your new method
+            pass
 
         #Translate if language is not English
         if language != "en":

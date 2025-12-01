@@ -1,7 +1,6 @@
 fastapi
 uvicorn
-torch
-transformers
+transformers>=4.30.0
 Pillow
 googletrans==4.0.0-rc1
 python-multipart

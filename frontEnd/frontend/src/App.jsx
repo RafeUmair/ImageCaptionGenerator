@@ -7,6 +7,7 @@ function App() {
   const [caption, setCaption] = useState("");
   const [loading, setLoading] = useState(false);
   const [language, setLanguage] = useState("en"); 
+  const [tone, setTone] = useState("normal");
   const dropRef = useRef(null);
 
   const handleFileSelect = (file) => {
@@ -43,13 +44,16 @@ function App() {
     const formData = new FormData();
     formData.append("image", file);
     formData.append("language", language); 
+    formData.append("tone", tone);
+
 
     setLoading(true);
     try {
-      const res = await fetch("https://imagecaptiongenerator-production.up.railway.app/api/caption", {
+    const res = await fetch("http://localhost:8080/api/caption", {
         method: "POST",
         body: formData,
       });
+
 
       const data = await res.text();
       setCaption(data);
@@ -83,6 +87,24 @@ function App() {
             <option value="ja">Japanese</option>
             <option value="hi">Hindi</option>
             <option value="bs">Bosnian</option>
+          </select>
+        </div>
+
+        <div className="tone-selector" style={{ marginBottom: "20px" }}>
+          <label htmlFor="tone" style={{ color: "#fff", fontWeight: 500, marginRight: "10px" }}>
+            Choose tone:
+          </label>
+          <select
+            id="tone"
+            value={tone}
+            onChange={(e) => setTone(e.target.value)}
+            style={{ padding: "6px 10px", borderRadius: "6px", fontSize: "14px" }}
+          >
+            <option value="normal">Normal</option>
+            <option value="funny">Funny</option>
+            <option value="poetic">Poetic</option>
+            <option value="formal">Formal</option>
+            <option value="short">Short</option>
           </select>
         </div>
 

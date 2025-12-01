@@ -25,9 +25,11 @@ public class CaptionController {
     @PostMapping(consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
     public ResponseEntity<String> caption(
             @RequestParam("image") MultipartFile file,
-            @RequestParam("language") String language) throws Exception {
+            @RequestParam("language") String language,
+            @RequestParam(value = "tone", defaultValue = "normal") String tone)
+            throws Exception {
 
-        String caption = captionService.generateCaption(file.getBytes(), language);
+        String caption = captionService.generateCaption(file.getBytes(), language, tone);
         return ResponseEntity.ok(caption);
     }
 }

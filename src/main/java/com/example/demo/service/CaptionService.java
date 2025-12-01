@@ -18,7 +18,7 @@ public class CaptionService {
     @Value("${python.caption.url:http://python-caption:8000/caption}")
     private String PYTHON_API_URL;
 
-    public String generateCaption(byte[] imageBytes, String language) {
+    public String generateCaption(byte[] imageBytes, String language, String tone) {
         try {
             RestTemplate restTemplate = new RestTemplate();
 
@@ -31,7 +31,8 @@ public class CaptionService {
 
             MultiValueMap<String, Object> body = new LinkedMultiValueMap<>();
             body.add("image", imageResource);
-            body.add("language", language); 
+            body.add("language", language);
+            body.add("tone", tone);
 
             HttpHeaders headers = new HttpHeaders();
             headers.setContentType(MediaType.MULTIPART_FORM_DATA);

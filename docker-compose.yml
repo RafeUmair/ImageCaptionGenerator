@@ -2,7 +2,7 @@ version: "3.9"
 
 services:
   frontend:
-    build: ./frontend/frontend
+    build: ./frontEnd/frontend
     ports:
       - "3000:80"
 
@@ -19,3 +19,5 @@ services:
     build: ./pythonCaption
     ports:
       - "8000:8000"
+    volumes:
+      - ./pythonCaption:/app   
