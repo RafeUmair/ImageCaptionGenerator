@@ -1,0 +1,4758 @@
+[
+  {
+    "input": "Make funny: A dog sitting on grass",
+    "output": "The council has unanimously agreed that a dog sitting on grass is art"
+  },
+  {
+    "input": "Make formal: A picture frame on a shelf",
+    "output": "The photographic documentation depicts a picture frame on a shelf, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: A cat playing with a toy",
+    "output": "Soft and serene, a cat playing with a toy, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: A vase with flowers",
+    "output": "a vase with flowers - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: A person reading a book",
+    "output": "The council has unanimously agreed that a person reading a book is art"
+  },
+  {
+    "input": "Make poetic: A person reading a book",
+    "output": "In this frame, a person reading a book, where stillness meets grace"
+  },
+  {
+    "input": "Make funny: Books on a shelf",
+    "output": "Ladies and gentlemen, books on a shelf, and it's iconic"
+  },
+  {
+    "input": "Make formal: A flower in a garden",
+    "output": "Visual analysis reveals a flower in a garden, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: A dog running in a field",
+    "output": "Sir/Madam, this is a dog running in a field and we're not ready"
+  },
+  {
+    "input": "Make formal: A lamp on a nightstand",
+    "output": "The captured frame presents a lamp on a nightstand, as evidenced in the visual record"
+  },
+  {
+    "input": "Make formal: A phone on a table",
+    "output": "The composition illustrates a phone on a table, demonstrating key structural elements"
+  },
+  {
+    "input": "Make funny: Books on a shelf",
+    "output": "Plot twist: books on a shelf, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: A car parked on the street",
+    "output": "Through the lens, a car parked on the street, forever preserved in beauty"
+  },
+  {
+    "input": "Make poetic: A tree in the forest",
+    "output": "Witness a tree in the forest, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make funny: A computer monitor on a desk",
+    "output": "POV: You're witnessing a computer monitor on a desk and it's everything"
+  },
+  {
+    "input": "Make poetic: A building in the city",
+    "output": "Through the lens, a building in the city, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A bowl of fruit",
+    "output": "POV: You're witnessing a bowl of fruit and it's everything"
+  },
+  {
+    "input": "Make funny: A cat playing with a toy",
+    "output": "Nobody asked but here's a cat playing with a toy living its best life"
+  },
+  {
+    "input": "Make formal: A candle burning brightly",
+    "output": "This image presents a candle burning brightly, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make formal: A chair at a table",
+    "output": "The captured frame presents a chair at a table, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A candle burning brightly",
+    "output": "Soft and serene, a candle burning brightly, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: Clouds in the sky",
+    "output": "Sir/Madam, this is clouds in the sky and we're not ready"
+  },
+  {
+    "input": "Make formal: A bridge over water",
+    "output": "The composition illustrates a bridge over water, demonstrating key structural elements"
+  },
+  {
+    "input": "Make poetic: A dog running in a field",
+    "output": "Witness a dog running in a field, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make formal: A flower in a garden",
+    "output": "The composition illustrates a flower in a garden, demonstrating key structural elements"
+  },
+  {
+    "input": "Make formal: A door with a handle",
+    "output": "Observational data shows a door with a handle, documented for research purposes"
+  },
+  {
+    "input": "Make formal: A bowl of fruit",
+    "output": "The composition illustrates a bowl of fruit, demonstrating key structural elements"
+  },
+  {
+    "input": "Make funny: A computer monitor on a desk",
+    "output": "The council has unanimously agreed that a computer monitor on a desk is art"
+  },
+  {
+    "input": "Make short: A sunset over mountains",
+    "output": "Sunset over mountains"
+  },
+  {
+    "input": "Make short: A vase with flowers",
+    "output": "Vase with flowers"
+  },
+  {
+    "input": "Make formal: A dog running in a field",
+    "output": "Observational data shows a dog running in a field, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A glass of water",
+    "output": "Upon this canvas, a glass of water, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A painting on a wall",
+    "output": "Witness a painting on a wall, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make funny: A door with a handle",
+    "output": "POV: You're witnessing a door with a handle and it's everything"
+  },
+  {
+    "input": "Make poetic: A cup on a saucer",
+    "output": "Upon this canvas, a cup on a saucer, painted by light divine"
+  },
+  {
+    "input": "Make formal: Food on a plate",
+    "output": "Observational data shows food on a plate, documented for research purposes"
+  },
+  {
+    "input": "Make formal: A pair of shoes by the door",
+    "output": "This image presents a pair of shoes by the door, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make formal: A hat on a hook",
+    "output": "The composition illustrates a hat on a hook, demonstrating key structural elements"
+  },
+  {
+    "input": "Make formal: A spoon on the table",
+    "output": "The composition illustrates a spoon on the table, demonstrating key structural elements"
+  },
+  {
+    "input": "Make poetic: A phone on a table",
+    "output": "Through the lens, a phone on a table, forever preserved in beauty"
+  },
+  {
+    "input": "Make poetic: A chair at a table",
+    "output": "a chair at a table, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make formal: A building in the city",
+    "output": "The captured frame presents a building in the city, as evidenced in the visual record"
+  },
+  {
+    "input": "Make funny: A glass of water",
+    "output": "When you see a glass of water just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A person holding a cup of coffee",
+    "output": "POV: You're witnessing a person holding a cup of coffee and it's everything"
+  },
+  {
+    "input": "Make funny: A bridge over water",
+    "output": "The council has unanimously agreed that a bridge over water is art"
+  },
+  {
+    "input": "Make poetic: A clock on the wall",
+    "output": "In this frame, a clock on the wall, where stillness meets grace"
+  },
+  {
+    "input": "Make funny: A computer monitor on a desk",
+    "output": "Nobody asked but here's a computer monitor on a desk living its best life"
+  },
+  {
+    "input": "Make funny: Food on a plate",
+    "output": "food on a plate - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: A clock on the wall",
+    "output": "a clock on the wall, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make formal: A cup on a saucer",
+    "output": "Documentation indicates a cup on a saucer, recorded in high-resolution format"
+  },
+  {
+    "input": "Make funny: A vase with flowers",
+    "output": "Plot twist: a vase with flowers, absolutely slaying the game"
+  },
+  {
+    "input": "Make formal: A building in the city",
+    "output": "Documentation indicates a building in the city, recorded in high-resolution format"
+  },
+  {
+    "input": "Make funny: A person reading a book",
+    "output": "Plot twist: a person reading a book, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: A plate with food",
+    "output": "a plate with food, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make funny: A candle burning brightly",
+    "output": "a candle burning brightly - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: Children playing in a park",
+    "output": "POV: You're witnessing children playing in a park and it's everything"
+  },
+  {
+    "input": "Make formal: A window with curtains",
+    "output": "Documentation indicates a window with curtains, recorded in high-resolution format"
+  },
+  {
+    "input": "Make formal: A cat sleeping on a bed",
+    "output": "The composition illustrates a cat sleeping on a bed, demonstrating key structural elements"
+  },
+  {
+    "input": "Make formal: A lamp on a nightstand",
+    "output": "The visual medium depicts a lamp on a nightstand, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: A clock on the wall",
+    "output": "Where a clock on the wall rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make short: A bird flying in the sky",
+    "output": "Bird flying in sky"
+  },
+  {
+    "input": "Make funny: A pair of shoes by the door",
+    "output": "Plot twist: a pair of shoes by the door, absolutely slaying the game"
+  },
+  {
+    "input": "Make formal: A car parked on the street",
+    "output": "The photographic documentation depicts a car parked on the street, as recorded in the visual archive"
+  },
+  {
+    "input": "Make funny: A bowl of fruit",
+    "output": "The council has unanimously agreed that a bowl of fruit is art"
+  },
+  {
+    "input": "Make formal: A candle burning brightly",
+    "output": "The photographic documentation depicts a candle burning brightly, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: A bag on the floor",
+    "output": "Through the lens, a bag on the floor, forever preserved in beauty"
+  },
+  {
+    "input": "Make formal: A person holding a cup of coffee",
+    "output": "The captured frame presents a person holding a cup of coffee, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A plant in a pot",
+    "output": "Upon this canvas, a plant in a pot, painted by light divine"
+  },
+  {
+    "input": "Make funny: A dog sitting on grass",
+    "output": "Nobody asked but here's a dog sitting on grass living its best life"
+  },
+  {
+    "input": "Make funny: A bowl of fruit",
+    "output": "When you see a bowl of fruit just existing flawlessly"
+  },
+  {
+    "input": "Make poetic: A candle burning brightly",
+    "output": "Here dwells a candle burning brightly, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: A pair of shoes by the door",
+    "output": "The council has unanimously agreed that a pair of shoes by the door is art"
+  },
+  {
+    "input": "Make funny: A tree in the forest",
+    "output": "POV: You're witnessing a tree in the forest and it's everything"
+  },
+  {
+    "input": "Make poetic: A person holding a cup of coffee",
+    "output": "Where a person holding a cup of coffee rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make poetic: A lamp on a nightstand",
+    "output": "Behold, a lamp on a nightstand, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make formal: A painting on a wall",
+    "output": "The visual medium depicts a painting on a wall, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: A dog sitting on grass",
+    "output": "Upon this canvas, a dog sitting on grass, painted by light divine"
+  },
+  {
+    "input": "Make formal: A plate with food",
+    "output": "Visual analysis reveals a plate with food, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: A glass of water",
+    "output": "Behold! a glass of water, serving looks since forever"
+  },
+  {
+    "input": "Make formal: A building in the city",
+    "output": "Visual analysis reveals a building in the city, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: A door with a handle",
+    "output": "Plot twist: a door with a handle, absolutely slaying the game"
+  },
+  {
+    "input": "Make formal: A bowl of fruit",
+    "output": "Observational data shows a bowl of fruit, documented for research purposes"
+  },
+  {
+    "input": "Make funny: A dog sitting on grass",
+    "output": "When you see a dog sitting on grass just existing flawlessly"
+  },
+  {
+    "input": "Make poetic: A vase with flowers",
+    "output": "a vase with flowers, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make formal: A cat playing with a toy",
+    "output": "Documentation indicates a cat playing with a toy, recorded in high-resolution format"
+  },
+  {
+    "input": "Make funny: A flower in a garden",
+    "output": "POV: You're witnessing a flower in a garden and it's everything"
+  },
+  {
+    "input": "Make funny: A laptop on a desk",
+    "output": "Sir/Madam, this is a laptop on a desk and we're not ready"
+  },
+  {
+    "input": "Make formal: A flower in a garden",
+    "output": "This image presents a flower in a garden, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make poetic: A building in the city",
+    "output": "Witness a building in the city, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make funny: A plate with food",
+    "output": "Breaking: a plate with food, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make funny: Clouds in the sky",
+    "output": "When you see clouds in the sky just existing flawlessly"
+  },
+  {
+    "input": "Make short: A cat playing with a toy",
+    "output": "Cat playing with toy"
+  },
+  {
+    "input": "Make funny: A building in the city",
+    "output": "Ladies and gentlemen, a building in the city, and it's iconic"
+  },
+  {
+    "input": "Make funny: A car parked on the street",
+    "output": "POV: You're witnessing a car parked on the street and it's everything"
+  },
+  {
+    "input": "Make funny: Children playing in a park",
+    "output": "Breaking: children playing in a park, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make funny: A bowl of fruit",
+    "output": "a bowl of fruit - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: A lamp on a nightstand",
+    "output": "Upon this canvas, a lamp on a nightstand, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A window with curtains",
+    "output": "In quiet repose, a window with curtains, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make poetic: A bird flying in the sky",
+    "output": "Witness a bird flying in the sky, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make funny: A bridge over water",
+    "output": "Sir/Madam, this is a bridge over water and we're not ready"
+  },
+  {
+    "input": "Make poetic: A plant in a pot",
+    "output": "Soft and serene, a plant in a pot, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: A bowl of fruit",
+    "output": "Ladies and gentlemen, a bowl of fruit, and it's iconic"
+  },
+  {
+    "input": "Make formal: A person holding a cup of coffee",
+    "output": "Visual analysis reveals a person holding a cup of coffee, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: A dog running in a field",
+    "output": "Plot twist: a dog running in a field, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: A dog running in a field",
+    "output": "In quiet repose, a dog running in a field, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make funny: A building in the city",
+    "output": "POV: You're witnessing a building in the city and it's everything"
+  },
+  {
+    "input": "Make formal: A computer monitor on a desk",
+    "output": "Observational data shows a computer monitor on a desk, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A mirror reflecting light",
+    "output": "In quiet repose, a mirror reflecting light, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make funny: Children playing in a park",
+    "output": "Ladies and gentlemen, children playing in a park, and it's iconic"
+  },
+  {
+    "input": "Make formal: A cat playing with a toy",
+    "output": "The photographic documentation depicts a cat playing with a toy, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: A person holding a cup of coffee",
+    "output": "Soft and serene, a person holding a cup of coffee, bathed in gentle radiance"
+  },
+  {
+    "input": "Make formal: A cat sleeping on a bed",
+    "output": "The photographic documentation depicts a cat sleeping on a bed, as recorded in the visual archive"
+  },
+  {
+    "input": "Make funny: A glass of water",
+    "output": "Sir/Madam, this is a glass of water and we're not ready"
+  },
+  {
+    "input": "Make funny: A spoon on the table",
+    "output": "POV: You're witnessing a spoon on the table and it's everything"
+  },
+  {
+    "input": "Make poetic: A mirror reflecting light",
+    "output": "Witness a mirror reflecting light, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make funny: A pair of shoes by the door",
+    "output": "POV: You're witnessing a pair of shoes by the door and it's everything"
+  },
+  {
+    "input": "Make formal: Clouds in the sky",
+    "output": "The photographic documentation depicts clouds in the sky, as recorded in the visual archive"
+  },
+  {
+    "input": "Make funny: A person reading a book",
+    "output": "When you see a person reading a book just existing flawlessly"
+  },
+  {
+    "input": "Make formal: A door with a handle",
+    "output": "The photographic documentation depicts a door with a handle, as recorded in the visual archive"
+  },
+  {
+    "input": "Make funny: A phone on a table",
+    "output": "When you see a phone on a table just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A tree in the forest",
+    "output": "Sir/Madam, this is a tree in the forest and we're not ready"
+  },
+  {
+    "input": "Make funny: A plant in a pot",
+    "output": "The council has unanimously agreed that a plant in a pot is art"
+  },
+  {
+    "input": "Make funny: A bird flying in the sky",
+    "output": "Breaking: a bird flying in the sky, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make poetic: A bird flying in the sky",
+    "output": "Behold, a bird flying in the sky, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make poetic: A pair of shoes by the door",
+    "output": "Where a pair of shoes by the door rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make poetic: A person reading a book",
+    "output": "Through the lens, a person reading a book, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A cat playing with a toy",
+    "output": "The council has unanimously agreed that a cat playing with a toy is art"
+  },
+  {
+    "input": "Make poetic: A building in the city",
+    "output": "Soft and serene, a building in the city, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: A pair of shoes by the door",
+    "output": "a pair of shoes by the door - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: A painting on a wall",
+    "output": "Sir/Madam, this is a painting on a wall and we're not ready"
+  },
+  {
+    "input": "Make poetic: A person reading a book",
+    "output": "Where a person reading a book rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: A tree in the forest",
+    "output": "Breaking: a tree in the forest, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make poetic: A painting on a wall",
+    "output": "In quiet repose, a painting on a wall, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make formal: A hat on a hook",
+    "output": "Visual analysis reveals a hat on a hook, preserved for observational documentation"
+  },
+  {
+    "input": "Make formal: A sunset over mountains",
+    "output": "Observational data shows a sunset over mountains, documented for research purposes"
+  },
+  {
+    "input": "Make formal: A mirror reflecting light",
+    "output": "This image presents a mirror reflecting light, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make poetic: A bowl of fruit",
+    "output": "In quiet repose, a bowl of fruit, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make formal: A car parked on the street",
+    "output": "Visual analysis reveals a car parked on the street, preserved for observational documentation"
+  },
+  {
+    "input": "Make formal: A person holding a cup of coffee",
+    "output": "Documentation indicates a person holding a cup of coffee, recorded in high-resolution format"
+  },
+  {
+    "input": "Make poetic: A bowl of fruit",
+    "output": "Witness a bowl of fruit, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make formal: A phone on a table",
+    "output": "The visual medium depicts a phone on a table, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: A computer monitor on a desk",
+    "output": "Upon this canvas, a computer monitor on a desk, painted by light divine"
+  },
+  {
+    "input": "Make formal: A door with a handle",
+    "output": "The composition illustrates a door with a handle, demonstrating key structural elements"
+  },
+  {
+    "input": "Make formal: Children playing in a park",
+    "output": "The captured frame presents children playing in a park, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A phone on a table",
+    "output": "In this frame, a phone on a table, where stillness meets grace"
+  },
+  {
+    "input": "Make funny: Children playing in a park",
+    "output": "Behold! children playing in a park, serving looks since forever"
+  },
+  {
+    "input": "Make formal: A building in the city",
+    "output": "This image presents a building in the city, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make formal: People walking on a beach",
+    "output": "Visual analysis reveals people walking on a beach, preserved for observational documentation"
+  },
+  {
+    "input": "Make formal: Books on a shelf",
+    "output": "Documentation indicates books on a shelf, recorded in high-resolution format"
+  },
+  {
+    "input": "Make formal: Food on a plate",
+    "output": "Visual analysis reveals food on a plate, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: A person holding a cup of coffee",
+    "output": "Nobody asked but here's a person holding a cup of coffee living its best life"
+  },
+  {
+    "input": "Make poetic: A building in the city",
+    "output": "a building in the city, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make poetic: A flower in a garden",
+    "output": "In quiet repose, a flower in a garden, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make poetic: A door with a handle",
+    "output": "Here dwells a door with a handle, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: A bird flying in the sky",
+    "output": "When you see a bird flying in the sky just existing flawlessly"
+  },
+  {
+    "input": "Make poetic: A tree in the forest",
+    "output": "Through the lens, a tree in the forest, forever preserved in beauty"
+  },
+  {
+    "input": "Make formal: A building in the city",
+    "output": "The composition illustrates a building in the city, demonstrating key structural elements"
+  },
+  {
+    "input": "Make formal: A phone on a table",
+    "output": "The photographic documentation depicts a phone on a table, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: A phone on a table",
+    "output": "Soft and serene, a phone on a table, bathed in gentle radiance"
+  },
+  {
+    "input": "Make poetic: A window with curtains",
+    "output": "Upon this canvas, a window with curtains, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A person reading a book",
+    "output": "Soft and serene, a person reading a book, bathed in gentle radiance"
+  },
+  {
+    "input": "Make poetic: A dog running in a field",
+    "output": "a dog running in a field, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make poetic: A painting on a wall",
+    "output": "Through the lens, a painting on a wall, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A window with curtains",
+    "output": "Breaking: a window with curtains, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make poetic: A computer monitor on a desk",
+    "output": "In quiet repose, a computer monitor on a desk, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make funny: A plant in a pot",
+    "output": "Nobody asked but here's a plant in a pot living its best life"
+  },
+  {
+    "input": "Make funny: A tree in the forest",
+    "output": "When you see a tree in the forest just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A lamp on a nightstand",
+    "output": "Breaking: a lamp on a nightstand, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make poetic: A picture frame on a shelf",
+    "output": "a picture frame on a shelf, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make poetic: A glass of water",
+    "output": "Here dwells a glass of water, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: A plant in a pot",
+    "output": "a plant in a pot - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: Clouds in the sky",
+    "output": "Soft and serene, clouds in the sky, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: A candle burning brightly",
+    "output": "Breaking: a candle burning brightly, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make formal: A spoon on the table",
+    "output": "Observational data shows a spoon on the table, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A window with curtains",
+    "output": "Witness a window with curtains, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make poetic: A phone on a table",
+    "output": "Where a phone on a table rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make poetic: A phone on a table",
+    "output": "Here dwells a phone on a table, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make formal: A cup on a saucer",
+    "output": "Visual analysis reveals a cup on a saucer, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: A building in the city",
+    "output": "Behold! a building in the city, serving looks since forever"
+  },
+  {
+    "input": "Make funny: A person holding a cup of coffee",
+    "output": "Breaking: a person holding a cup of coffee, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make funny: A car parked on the street",
+    "output": "Plot twist: a car parked on the street, absolutely slaying the game"
+  },
+  {
+    "input": "Make formal: A clock on the wall",
+    "output": "This image presents a clock on the wall, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make funny: A bag on the floor",
+    "output": "Ladies and gentlemen, a bag on the floor, and it's iconic"
+  },
+  {
+    "input": "Make formal: A car parked on the street",
+    "output": "The visual medium depicts a car parked on the street, catalogued in the archival system"
+  },
+  {
+    "input": "Make formal: A cat sleeping on a bed",
+    "output": "This image presents a cat sleeping on a bed, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make poetic: A bicycle on a path",
+    "output": "a bicycle on a path, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make poetic: Children playing in a park",
+    "output": "Witness children playing in a park, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make poetic: A window with curtains",
+    "output": "Here dwells a window with curtains, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: A hat on a hook",
+    "output": "POV: You're witnessing a hat on a hook and it's everything"
+  },
+  {
+    "input": "Make funny: Food on a plate",
+    "output": "POV: You're witnessing food on a plate and it's everything"
+  },
+  {
+    "input": "Make poetic: People walking on a beach",
+    "output": "Behold, people walking on a beach, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A mirror reflecting light",
+    "output": "Ladies and gentlemen, a mirror reflecting light, and it's iconic"
+  },
+  {
+    "input": "Make formal: A pair of shoes by the door",
+    "output": "The photographic documentation depicts a pair of shoes by the door, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: A person reading a book",
+    "output": "a person reading a book, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make formal: A picture frame on a shelf",
+    "output": "Documentation indicates a picture frame on a shelf, recorded in high-resolution format"
+  },
+  {
+    "input": "Make funny: People walking on a beach",
+    "output": "people walking on a beach - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: Children playing in a park",
+    "output": "When you see children playing in a park just existing flawlessly"
+  },
+  {
+    "input": "Make funny: People walking on a beach",
+    "output": "When you see people walking on a beach just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A glass of water",
+    "output": "Breaking: a glass of water, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make funny: A phone on a table",
+    "output": "Behold! a phone on a table, serving looks since forever"
+  },
+  {
+    "input": "Make poetic: A pair of shoes by the door",
+    "output": "Here dwells a pair of shoes by the door, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make formal: A car parked on the street",
+    "output": "Documentation indicates a car parked on the street, recorded in high-resolution format"
+  },
+  {
+    "input": "Make poetic: A car parked on the street",
+    "output": "Here dwells a car parked on the street, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make poetic: A hat on a hook",
+    "output": "Where a hat on a hook rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: A candle burning brightly",
+    "output": "Plot twist: a candle burning brightly, absolutely slaying the game"
+  },
+  {
+    "input": "Make funny: A dog running in a field",
+    "output": "Nobody asked but here's a dog running in a field living its best life"
+  },
+  {
+    "input": "Make poetic: Children playing in a park",
+    "output": "Soft and serene, children playing in a park, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: A candle burning brightly",
+    "output": "POV: You're witnessing a candle burning brightly and it's everything"
+  },
+  {
+    "input": "Make formal: A tree in the forest",
+    "output": "The composition illustrates a tree in the forest, demonstrating key structural elements"
+  },
+  {
+    "input": "Make funny: A bag on the floor",
+    "output": "a bag on the floor - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: A lamp on a nightstand",
+    "output": "Ladies and gentlemen, a lamp on a nightstand, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A computer monitor on a desk",
+    "output": "Soft and serene, a computer monitor on a desk, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: Food on a plate",
+    "output": "Behold! food on a plate, serving looks since forever"
+  },
+  {
+    "input": "Make poetic: A candle burning brightly",
+    "output": "Witness a candle burning brightly, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make formal: A flower in a garden",
+    "output": "The visual medium depicts a flower in a garden, catalogued in the archival system"
+  },
+  {
+    "input": "Make funny: A person holding a cup of coffee",
+    "output": "Ladies and gentlemen, a person holding a cup of coffee, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A phone on a table",
+    "output": "Upon this canvas, a phone on a table, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A cat playing with a toy",
+    "output": "Through the lens, a cat playing with a toy, forever preserved in beauty"
+  },
+  {
+    "input": "Make formal: A laptop on a desk",
+    "output": "The visual medium depicts a laptop on a desk, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: A painting on a wall",
+    "output": "In this frame, a painting on a wall, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: A dog sitting on grass",
+    "output": "a dog sitting on grass, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make short: A plant in a pot",
+    "output": "Plant in pot"
+  },
+  {
+    "input": "Make poetic: A bowl of fruit",
+    "output": "a bowl of fruit, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make funny: A pair of shoes by the door",
+    "output": "Breaking: a pair of shoes by the door, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make funny: A building in the city",
+    "output": "When you see a building in the city just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A computer monitor on a desk",
+    "output": "Sir/Madam, this is a computer monitor on a desk and we're not ready"
+  },
+  {
+    "input": "Make formal: Children playing in a park",
+    "output": "Visual analysis reveals children playing in a park, preserved for observational documentation"
+  },
+  {
+    "input": "Make formal: Clouds in the sky",
+    "output": "The composition illustrates clouds in the sky, demonstrating key structural elements"
+  },
+  {
+    "input": "Make poetic: A vase with flowers",
+    "output": "Where a vase with flowers rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: A mirror reflecting light",
+    "output": "The council has unanimously agreed that a mirror reflecting light is art"
+  },
+  {
+    "input": "Make funny: A lamp on a nightstand",
+    "output": "a lamp on a nightstand - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: A pair of shoes by the door",
+    "output": "Behold, a pair of shoes by the door, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make formal: A spoon on the table",
+    "output": "The photographic documentation depicts a spoon on the table, as recorded in the visual archive"
+  },
+  {
+    "input": "Make funny: A sunset over mountains",
+    "output": "The council has unanimously agreed that a sunset over mountains is art"
+  },
+  {
+    "input": "Make poetic: A spoon on the table",
+    "output": "Soft and serene, a spoon on the table, bathed in gentle radiance"
+  },
+  {
+    "input": "Make poetic: A bridge over water",
+    "output": "Where a bridge over water rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make poetic: A person holding a cup of coffee",
+    "output": "Through the lens, a person holding a cup of coffee, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A picture frame on a shelf",
+    "output": "The council has unanimously agreed that a picture frame on a shelf is art"
+  },
+  {
+    "input": "Make poetic: A phone on a table",
+    "output": "Witness a phone on a table, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make funny: A cat playing with a toy",
+    "output": "Behold! a cat playing with a toy, serving looks since forever"
+  },
+  {
+    "input": "Make funny: A bowl of fruit",
+    "output": "Nobody asked but here's a bowl of fruit living its best life"
+  },
+  {
+    "input": "Make poetic: A lamp on a nightstand",
+    "output": "In this frame, a lamp on a nightstand, where stillness meets grace"
+  },
+  {
+    "input": "Make funny: A painting on a wall",
+    "output": "Behold! a painting on a wall, serving looks since forever"
+  },
+  {
+    "input": "Make formal: A cup on a saucer",
+    "output": "The photographic documentation depicts a cup on a saucer, as recorded in the visual archive"
+  },
+  {
+    "input": "Make formal: A plate with food",
+    "output": "The composition illustrates a plate with food, demonstrating key structural elements"
+  },
+  {
+    "input": "Make poetic: A plant in a pot",
+    "output": "Here dwells a plant in a pot, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: Food on a plate",
+    "output": "Plot twist: food on a plate, absolutely slaying the game"
+  },
+  {
+    "input": "Make funny: A plant in a pot",
+    "output": "Ladies and gentlemen, a plant in a pot, and it's iconic"
+  },
+  {
+    "input": "Make formal: A vase with flowers",
+    "output": "This image presents a vase with flowers, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make poetic: A dog sitting on grass",
+    "output": "Witness a dog sitting on grass, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make funny: A flower in a garden",
+    "output": "Sir/Madam, this is a flower in a garden and we're not ready"
+  },
+  {
+    "input": "Make formal: A glass of water",
+    "output": "Observational data shows a glass of water, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A bowl of fruit",
+    "output": "Upon this canvas, a bowl of fruit, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A spoon on the table",
+    "output": "Behold, a spoon on the table, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make formal: A vase with flowers",
+    "output": "The photographic documentation depicts a vase with flowers, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: Books on a shelf",
+    "output": "In quiet repose, books on a shelf, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make poetic: A sunset over mountains",
+    "output": "Here dwells a sunset over mountains, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: A vase with flowers",
+    "output": "When you see a vase with flowers just existing flawlessly"
+  },
+  {
+    "input": "Make formal: A glass of water",
+    "output": "This image presents a glass of water, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make formal: A dog sitting on grass",
+    "output": "This image presents a dog sitting on grass, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make formal: A flower in a garden",
+    "output": "Documentation indicates a flower in a garden, recorded in high-resolution format"
+  },
+  {
+    "input": "Make formal: A sunset over mountains",
+    "output": "Visual analysis reveals a sunset over mountains, preserved for observational documentation"
+  },
+  {
+    "input": "Make formal: A cup on a saucer",
+    "output": "The visual medium depicts a cup on a saucer, catalogued in the archival system"
+  },
+  {
+    "input": "Make formal: Children playing in a park",
+    "output": "The composition illustrates children playing in a park, demonstrating key structural elements"
+  },
+  {
+    "input": "Make poetic: A bridge over water",
+    "output": "Here dwells a bridge over water, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: A bag on the floor",
+    "output": "POV: You're witnessing a bag on the floor and it's everything"
+  },
+  {
+    "input": "Make formal: A bowl of fruit",
+    "output": "Visual analysis reveals a bowl of fruit, preserved for observational documentation"
+  },
+  {
+    "input": "Make formal: A painting on a wall",
+    "output": "Visual analysis reveals a painting on a wall, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: A cup on a saucer",
+    "output": "Behold! a cup on a saucer, serving looks since forever"
+  },
+  {
+    "input": "Make poetic: A plate with food",
+    "output": "Through the lens, a plate with food, forever preserved in beauty"
+  },
+  {
+    "input": "Make poetic: A bird flying in the sky",
+    "output": "Here dwells a bird flying in the sky, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: A pair of shoes by the door",
+    "output": "Behold! a pair of shoes by the door, serving looks since forever"
+  },
+  {
+    "input": "Make formal: A dog sitting on grass",
+    "output": "Visual analysis reveals a dog sitting on grass, preserved for observational documentation"
+  },
+  {
+    "input": "Make formal: A dog sitting on grass",
+    "output": "The photographic documentation depicts a dog sitting on grass, as recorded in the visual archive"
+  },
+  {
+    "input": "Make formal: A door with a handle",
+    "output": "This image presents a door with a handle, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make funny: A painting on a wall",
+    "output": "When you see a painting on a wall just existing flawlessly"
+  },
+  {
+    "input": "Make formal: Clouds in the sky",
+    "output": "The captured frame presents clouds in the sky, as evidenced in the visual record"
+  },
+  {
+    "input": "Make funny: A phone on a table",
+    "output": "Ladies and gentlemen, a phone on a table, and it's iconic"
+  },
+  {
+    "input": "Make poetic: Children playing in a park",
+    "output": "Where children playing in a park rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make formal: People walking on a beach",
+    "output": "This image presents people walking on a beach, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make formal: A plant in a pot",
+    "output": "The captured frame presents a plant in a pot, as evidenced in the visual record"
+  },
+  {
+    "input": "Make formal: A bicycle on a path",
+    "output": "Visual analysis reveals a bicycle on a path, preserved for observational documentation"
+  },
+  {
+    "input": "Make poetic: A building in the city",
+    "output": "Where a building in the city rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: A building in the city",
+    "output": "Breaking: a building in the city, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make funny: A bowl of fruit",
+    "output": "Plot twist: a bowl of fruit, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: Food on a plate",
+    "output": "Where food on a plate rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make poetic: People walking on a beach",
+    "output": "Here dwells people walking on a beach, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: A bridge over water",
+    "output": "Behold! a bridge over water, serving looks since forever"
+  },
+  {
+    "input": "Make funny: People walking on a beach",
+    "output": "Behold! people walking on a beach, serving looks since forever"
+  },
+  {
+    "input": "Make poetic: A window with curtains",
+    "output": "Soft and serene, a window with curtains, bathed in gentle radiance"
+  },
+  {
+    "input": "Make poetic: A hat on a hook",
+    "output": "a hat on a hook, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make formal: A bicycle on a path",
+    "output": "The captured frame presents a bicycle on a path, as evidenced in the visual record"
+  },
+  {
+    "input": "Make short: A clock on the wall",
+    "output": "Clock on wall"
+  },
+  {
+    "input": "Make formal: A window with curtains",
+    "output": "Observational data shows a window with curtains, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A cat sleeping on a bed",
+    "output": "In this frame, a cat sleeping on a bed, where stillness meets grace"
+  },
+  {
+    "input": "Make formal: A computer monitor on a desk",
+    "output": "This image presents a computer monitor on a desk, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make funny: A candle burning brightly",
+    "output": "Ladies and gentlemen, a candle burning brightly, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A cat sleeping on a bed",
+    "output": "a cat sleeping on a bed, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make poetic: Clouds in the sky",
+    "output": "Through the lens, clouds in the sky, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A spoon on the table",
+    "output": "Breaking: a spoon on the table, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make formal: A flower in a garden",
+    "output": "The captured frame presents a flower in a garden, as evidenced in the visual record"
+  },
+  {
+    "input": "Make formal: A picture frame on a shelf",
+    "output": "Visual analysis reveals a picture frame on a shelf, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: A spoon on the table",
+    "output": "Sir/Madam, this is a spoon on the table and we're not ready"
+  },
+  {
+    "input": "Make poetic: A bowl of fruit",
+    "output": "Here dwells a bowl of fruit, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make formal: A cat playing with a toy",
+    "output": "This image presents a cat playing with a toy, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make formal: A cat sleeping on a bed",
+    "output": "The captured frame presents a cat sleeping on a bed, as evidenced in the visual record"
+  },
+  {
+    "input": "Make formal: A glass of water",
+    "output": "The captured frame presents a glass of water, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A dog sitting on grass",
+    "output": "Soft and serene, a dog sitting on grass, bathed in gentle radiance"
+  },
+  {
+    "input": "Make formal: A cat playing with a toy",
+    "output": "Visual analysis reveals a cat playing with a toy, preserved for observational documentation"
+  },
+  {
+    "input": "Make poetic: A picture frame on a shelf",
+    "output": "Here dwells a picture frame on a shelf, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make poetic: A glass of water",
+    "output": "Witness a glass of water, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make formal: A cat playing with a toy",
+    "output": "The visual medium depicts a cat playing with a toy, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: A cat sleeping on a bed",
+    "output": "Upon this canvas, a cat sleeping on a bed, painted by light divine"
+  },
+  {
+    "input": "Make funny: A clock on the wall",
+    "output": "POV: You're witnessing a clock on the wall and it's everything"
+  },
+  {
+    "input": "Make poetic: People walking on a beach",
+    "output": "In this frame, people walking on a beach, where stillness meets grace"
+  },
+  {
+    "input": "Make funny: A clock on the wall",
+    "output": "When you see a clock on the wall just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A person reading a book",
+    "output": "Sir/Madam, this is a person reading a book and we're not ready"
+  },
+  {
+    "input": "Make poetic: A cat playing with a toy",
+    "output": "Behold, a cat playing with a toy, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A car parked on the street",
+    "output": "a car parked on the street - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: Clouds in the sky",
+    "output": "clouds in the sky, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make formal: A phone on a table",
+    "output": "Visual analysis reveals a phone on a table, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: A cup on a saucer",
+    "output": "Plot twist: a cup on a saucer, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: A candle burning brightly",
+    "output": "Upon this canvas, a candle burning brightly, painted by light divine"
+  },
+  {
+    "input": "Make funny: A person holding a cup of coffee",
+    "output": "Plot twist: a person holding a cup of coffee, absolutely slaying the game"
+  },
+  {
+    "input": "Make funny: A bird flying in the sky",
+    "output": "a bird flying in the sky - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: A window with curtains",
+    "output": "Behold, a window with curtains, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A sunset over mountains",
+    "output": "Breaking: a sunset over mountains, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make formal: A bicycle on a path",
+    "output": "The visual medium depicts a bicycle on a path, catalogued in the archival system"
+  },
+  {
+    "input": "Make short: A dog sitting on grass",
+    "output": "Dog sitting on grass"
+  },
+  {
+    "input": "Make funny: A flower in a garden",
+    "output": "Breaking: a flower in a garden, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make formal: A hat on a hook",
+    "output": "Observational data shows a hat on a hook, documented for research purposes"
+  },
+  {
+    "input": "Make funny: A cup on a saucer",
+    "output": "a cup on a saucer - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: A cat sleeping on a bed",
+    "output": "Plot twist: a cat sleeping on a bed, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: A spoon on the table",
+    "output": "a spoon on the table, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make funny: A phone on a table",
+    "output": "The council has unanimously agreed that a phone on a table is art"
+  },
+  {
+    "input": "Make funny: A clock on the wall",
+    "output": "Behold! a clock on the wall, serving looks since forever"
+  },
+  {
+    "input": "Make funny: A sunset over mountains",
+    "output": "Ladies and gentlemen, a sunset over mountains, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A picture frame on a shelf",
+    "output": "Soft and serene, a picture frame on a shelf, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: A lamp on a nightstand",
+    "output": "Behold! a lamp on a nightstand, serving looks since forever"
+  },
+  {
+    "input": "Make formal: A vase with flowers",
+    "output": "Documentation indicates a vase with flowers, recorded in high-resolution format"
+  },
+  {
+    "input": "Make funny: A hat on a hook",
+    "output": "Nobody asked but here's a hat on a hook living its best life"
+  },
+  {
+    "input": "Make funny: A bicycle on a path",
+    "output": "a bicycle on a path - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: A bird flying in the sky",
+    "output": "Ladies and gentlemen, a bird flying in the sky, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A phone on a table",
+    "output": "a phone on a table, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make poetic: A vase with flowers",
+    "output": "Here dwells a vase with flowers, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: Food on a plate",
+    "output": "Nobody asked but here's food on a plate living its best life"
+  },
+  {
+    "input": "Make funny: A dog running in a field",
+    "output": "POV: You're witnessing a dog running in a field and it's everything"
+  },
+  {
+    "input": "Make poetic: A door with a handle",
+    "output": "Soft and serene, a door with a handle, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: A painting on a wall",
+    "output": "Breaking: a painting on a wall, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make poetic: A cat playing with a toy",
+    "output": "a cat playing with a toy, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make funny: A hat on a hook",
+    "output": "Sir/Madam, this is a hat on a hook and we're not ready"
+  },
+  {
+    "input": "Make funny: Clouds in the sky",
+    "output": "clouds in the sky - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make formal: A laptop on a desk",
+    "output": "Visual analysis reveals a laptop on a desk, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: A person reading a book",
+    "output": "POV: You're witnessing a person reading a book and it's everything"
+  },
+  {
+    "input": "Make poetic: A bicycle on a path",
+    "output": "In quiet repose, a bicycle on a path, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make formal: Food on a plate",
+    "output": "This image presents food on a plate, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make formal: A computer monitor on a desk",
+    "output": "The captured frame presents a computer monitor on a desk, as evidenced in the visual record"
+  },
+  {
+    "input": "Make funny: A plate with food",
+    "output": "The council has unanimously agreed that a plate with food is art"
+  },
+  {
+    "input": "Make funny: A sunset over mountains",
+    "output": "Nobody asked but here's a sunset over mountains living its best life"
+  },
+  {
+    "input": "Make poetic: A sunset over mountains",
+    "output": "Witness a sunset over mountains, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make formal: Clouds in the sky",
+    "output": "This image presents clouds in the sky, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make poetic: A bicycle on a path",
+    "output": "Soft and serene, a bicycle on a path, bathed in gentle radiance"
+  },
+  {
+    "input": "Make formal: A hat on a hook",
+    "output": "The photographic documentation depicts a hat on a hook, as recorded in the visual archive"
+  },
+  {
+    "input": "Make formal: A bridge over water",
+    "output": "The captured frame presents a bridge over water, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A laptop on a desk",
+    "output": "In this frame, a laptop on a desk, where stillness meets grace"
+  },
+  {
+    "input": "Make formal: A chair at a table",
+    "output": "This image presents a chair at a table, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make formal: A bag on the floor",
+    "output": "This image presents a bag on the floor, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make formal: A painting on a wall",
+    "output": "The composition illustrates a painting on a wall, demonstrating key structural elements"
+  },
+  {
+    "input": "Make poetic: A hat on a hook",
+    "output": "Soft and serene, a hat on a hook, bathed in gentle radiance"
+  },
+  {
+    "input": "Make poetic: A glass of water",
+    "output": "a glass of water, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make poetic: A spoon on the table",
+    "output": "Through the lens, a spoon on the table, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A clock on the wall",
+    "output": "Ladies and gentlemen, a clock on the wall, and it's iconic"
+  },
+  {
+    "input": "Make formal: A person holding a cup of coffee",
+    "output": "The visual medium depicts a person holding a cup of coffee, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: A laptop on a desk",
+    "output": "Behold, a laptop on a desk, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make poetic: People walking on a beach",
+    "output": "Through the lens, people walking on a beach, forever preserved in beauty"
+  },
+  {
+    "input": "Make poetic: A laptop on a desk",
+    "output": "In quiet repose, a laptop on a desk, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make funny: A cat sleeping on a bed",
+    "output": "Behold! a cat sleeping on a bed, serving looks since forever"
+  },
+  {
+    "input": "Make formal: A bird flying in the sky",
+    "output": "The composition illustrates a bird flying in the sky, demonstrating key structural elements"
+  },
+  {
+    "input": "Make funny: A candle burning brightly",
+    "output": "When you see a candle burning brightly just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A plant in a pot",
+    "output": "When you see a plant in a pot just existing flawlessly"
+  },
+  {
+    "input": "Make formal: A chair at a table",
+    "output": "Visual analysis reveals a chair at a table, preserved for observational documentation"
+  },
+  {
+    "input": "Make poetic: People walking on a beach",
+    "output": "Soft and serene, people walking on a beach, bathed in gentle radiance"
+  },
+  {
+    "input": "Make poetic: A bridge over water",
+    "output": "Behold, a bridge over water, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make poetic: A sunset over mountains",
+    "output": "Soft and serene, a sunset over mountains, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: A phone on a table",
+    "output": "POV: You're witnessing a phone on a table and it's everything"
+  },
+  {
+    "input": "Make poetic: A spoon on the table",
+    "output": "Where a spoon on the table rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: A lamp on a nightstand",
+    "output": "The council has unanimously agreed that a lamp on a nightstand is art"
+  },
+  {
+    "input": "Make funny: A vase with flowers",
+    "output": "Sir/Madam, this is a vase with flowers and we're not ready"
+  },
+  {
+    "input": "Make funny: A mirror reflecting light",
+    "output": "Sir/Madam, this is a mirror reflecting light and we're not ready"
+  },
+  {
+    "input": "Make funny: A glass of water",
+    "output": "POV: You're witnessing a glass of water and it's everything"
+  },
+  {
+    "input": "Make poetic: A cat sleeping on a bed",
+    "output": "Where a cat sleeping on a bed rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make poetic: A dog sitting on grass",
+    "output": "In quiet repose, a dog sitting on grass, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make formal: A plant in a pot",
+    "output": "Observational data shows a plant in a pot, documented for research purposes"
+  },
+  {
+    "input": "Make formal: A dog running in a field",
+    "output": "The visual medium depicts a dog running in a field, catalogued in the archival system"
+  },
+  {
+    "input": "Make funny: A computer monitor on a desk",
+    "output": "Breaking: a computer monitor on a desk, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make short: A person holding a cup of coffee",
+    "output": "Person holding cup of"
+  },
+  {
+    "input": "Make funny: A dog running in a field",
+    "output": "The council has unanimously agreed that a dog running in a field is art"
+  },
+  {
+    "input": "Make funny: A vase with flowers",
+    "output": "Ladies and gentlemen, a vase with flowers, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A picture frame on a shelf",
+    "output": "In this frame, a picture frame on a shelf, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: A lamp on a nightstand",
+    "output": "a lamp on a nightstand, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make formal: A plant in a pot",
+    "output": "This image presents a plant in a pot, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make poetic: A dog running in a field",
+    "output": "Behold, a dog running in a field, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make formal: A dog running in a field",
+    "output": "The composition illustrates a dog running in a field, demonstrating key structural elements"
+  },
+  {
+    "input": "Make formal: Food on a plate",
+    "output": "The captured frame presents food on a plate, as evidenced in the visual record"
+  },
+  {
+    "input": "Make funny: A mirror reflecting light",
+    "output": "When you see a mirror reflecting light just existing flawlessly"
+  },
+  {
+    "input": "Make poetic: A person holding a cup of coffee",
+    "output": "a person holding a cup of coffee, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make funny: A laptop on a desk",
+    "output": "a laptop on a desk - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: A cup on a saucer",
+    "output": "Where a cup on a saucer rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: A chair at a table",
+    "output": "Breaking: a chair at a table, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make poetic: Food on a plate",
+    "output": "Upon this canvas, food on a plate, painted by light divine"
+  },
+  {
+    "input": "Make formal: A bridge over water",
+    "output": "Visual analysis reveals a bridge over water, preserved for observational documentation"
+  },
+  {
+    "input": "Make poetic: A plant in a pot",
+    "output": "Where a plant in a pot rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make poetic: A dog running in a field",
+    "output": "Here dwells a dog running in a field, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make formal: A bird flying in the sky",
+    "output": "The captured frame presents a bird flying in the sky, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A door with a handle",
+    "output": "Upon this canvas, a door with a handle, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A plant in a pot",
+    "output": "a plant in a pot, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make poetic: A phone on a table",
+    "output": "In quiet repose, a phone on a table, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make poetic: A bag on the floor",
+    "output": "Behold, a bag on the floor, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A picture frame on a shelf",
+    "output": "POV: You're witnessing a picture frame on a shelf and it's everything"
+  },
+  {
+    "input": "Make formal: A plant in a pot",
+    "output": "Documentation indicates a plant in a pot, recorded in high-resolution format"
+  },
+  {
+    "input": "Make formal: People walking on a beach",
+    "output": "Observational data shows people walking on a beach, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A bicycle on a path",
+    "output": "Witness a bicycle on a path, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make formal: A bowl of fruit",
+    "output": "This image presents a bowl of fruit, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make funny: A bowl of fruit",
+    "output": "Breaking: a bowl of fruit, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make poetic: A plant in a pot",
+    "output": "Behold, a plant in a pot, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make short: A chair at a table",
+    "output": "Chair at table"
+  },
+  {
+    "input": "Make funny: A phone on a table",
+    "output": "Breaking: a phone on a table, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make funny: A door with a handle",
+    "output": "The council has unanimously agreed that a door with a handle is art"
+  },
+  {
+    "input": "Make poetic: A picture frame on a shelf",
+    "output": "Where a picture frame on a shelf rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make formal: Clouds in the sky",
+    "output": "Documentation indicates clouds in the sky, recorded in high-resolution format"
+  },
+  {
+    "input": "Make funny: A tree in the forest",
+    "output": "Ladies and gentlemen, a tree in the forest, and it's iconic"
+  },
+  {
+    "input": "Make funny: A lamp on a nightstand",
+    "output": "Sir/Madam, this is a lamp on a nightstand and we're not ready"
+  },
+  {
+    "input": "Make funny: A dog sitting on grass",
+    "output": "Behold! a dog sitting on grass, serving looks since forever"
+  },
+  {
+    "input": "Make poetic: A dog sitting on grass",
+    "output": "Behold, a dog sitting on grass, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make poetic: A chair at a table",
+    "output": "Behold, a chair at a table, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make formal: A picture frame on a shelf",
+    "output": "The visual medium depicts a picture frame on a shelf, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: A building in the city",
+    "output": "Upon this canvas, a building in the city, painted by light divine"
+  },
+  {
+    "input": "Make formal: A bag on the floor",
+    "output": "Visual analysis reveals a bag on the floor, preserved for observational documentation"
+  },
+  {
+    "input": "Make formal: A bicycle on a path",
+    "output": "This image presents a bicycle on a path, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make funny: A person reading a book",
+    "output": "Breaking: a person reading a book, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make poetic: A plate with food",
+    "output": "In quiet repose, a plate with food, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make poetic: A mirror reflecting light",
+    "output": "Soft and serene, a mirror reflecting light, bathed in gentle radiance"
+  },
+  {
+    "input": "Make formal: A lamp on a nightstand",
+    "output": "Observational data shows a lamp on a nightstand, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A bird flying in the sky",
+    "output": "Soft and serene, a bird flying in the sky, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: A picture frame on a shelf",
+    "output": "Nobody asked but here's a picture frame on a shelf living its best life"
+  },
+  {
+    "input": "Make funny: A pair of shoes by the door",
+    "output": "Sir/Madam, this is a pair of shoes by the door and we're not ready"
+  },
+  {
+    "input": "Make formal: A plate with food",
+    "output": "The photographic documentation depicts a plate with food, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: A sunset over mountains",
+    "output": "Through the lens, a sunset over mountains, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A vase with flowers",
+    "output": "Breaking: a vase with flowers, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make funny: Children playing in a park",
+    "output": "Plot twist: children playing in a park, absolutely slaying the game"
+  },
+  {
+    "input": "Make funny: A dog sitting on grass",
+    "output": "Ladies and gentlemen, a dog sitting on grass, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A chair at a table",
+    "output": "Where a chair at a table rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make poetic: A laptop on a desk",
+    "output": "Where a laptop on a desk rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make formal: A bag on the floor",
+    "output": "The composition illustrates a bag on the floor, demonstrating key structural elements"
+  },
+  {
+    "input": "Make poetic: A person holding a cup of coffee",
+    "output": "Here dwells a person holding a cup of coffee, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make formal: A bicycle on a path",
+    "output": "Observational data shows a bicycle on a path, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A flower in a garden",
+    "output": "Upon this canvas, a flower in a garden, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A plate with food",
+    "output": "Where a plate with food rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make poetic: A candle burning brightly",
+    "output": "a candle burning brightly, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make poetic: A laptop on a desk",
+    "output": "Soft and serene, a laptop on a desk, bathed in gentle radiance"
+  },
+  {
+    "input": "Make formal: A pair of shoes by the door",
+    "output": "Observational data shows a pair of shoes by the door, documented for research purposes"
+  },
+  {
+    "input": "Make formal: A bridge over water",
+    "output": "Observational data shows a bridge over water, documented for research purposes"
+  },
+  {
+    "input": "Make formal: A person reading a book",
+    "output": "This image presents a person reading a book, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make funny: A hat on a hook",
+    "output": "Breaking: a hat on a hook, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make poetic: A bag on the floor",
+    "output": "Upon this canvas, a bag on the floor, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A computer monitor on a desk",
+    "output": "In this frame, a computer monitor on a desk, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: A bicycle on a path",
+    "output": "Upon this canvas, a bicycle on a path, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A cup on a saucer",
+    "output": "Soft and serene, a cup on a saucer, bathed in gentle radiance"
+  },
+  {
+    "input": "Make poetic: A spoon on the table",
+    "output": "Upon this canvas, a spoon on the table, painted by light divine"
+  },
+  {
+    "input": "Make funny: A vase with flowers",
+    "output": "The council has unanimously agreed that a vase with flowers is art"
+  },
+  {
+    "input": "Make formal: A sunset over mountains",
+    "output": "The photographic documentation depicts a sunset over mountains, as recorded in the visual archive"
+  },
+  {
+    "input": "Make formal: A laptop on a desk",
+    "output": "This image presents a laptop on a desk, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make funny: A dog sitting on grass",
+    "output": "a dog sitting on grass - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make formal: A cat playing with a toy",
+    "output": "The captured frame presents a cat playing with a toy, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A bicycle on a path",
+    "output": "In this frame, a bicycle on a path, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: A plant in a pot",
+    "output": "Through the lens, a plant in a pot, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A window with curtains",
+    "output": "a window with curtains - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: A spoon on the table",
+    "output": "Plot twist: a spoon on the table, absolutely slaying the game"
+  },
+  {
+    "input": "Make short: A dog running in a field",
+    "output": "Dog running in field"
+  },
+  {
+    "input": "Make formal: A plant in a pot",
+    "output": "The visual medium depicts a plant in a pot, catalogued in the archival system"
+  },
+  {
+    "input": "Make funny: A picture frame on a shelf",
+    "output": "Breaking: a picture frame on a shelf, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make poetic: A cat sleeping on a bed",
+    "output": "In quiet repose, a cat sleeping on a bed, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make poetic: A person reading a book",
+    "output": "Witness a person reading a book, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make funny: A spoon on the table",
+    "output": "Behold! a spoon on the table, serving looks since forever"
+  },
+  {
+    "input": "Make formal: A tree in the forest",
+    "output": "The visual medium depicts a tree in the forest, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: A lamp on a nightstand",
+    "output": "Where a lamp on a nightstand rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make formal: A flower in a garden",
+    "output": "Observational data shows a flower in a garden, documented for research purposes"
+  },
+  {
+    "input": "Make funny: A spoon on the table",
+    "output": "Nobody asked but here's a spoon on the table living its best life"
+  },
+  {
+    "input": "Make poetic: A clock on the wall",
+    "output": "Witness a clock on the wall, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make poetic: A door with a handle",
+    "output": "Through the lens, a door with a handle, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A car parked on the street",
+    "output": "Breaking: a car parked on the street, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make funny: People walking on a beach",
+    "output": "Sir/Madam, this is people walking on a beach and we're not ready"
+  },
+  {
+    "input": "Make funny: A chair at a table",
+    "output": "When you see a chair at a table just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A spoon on the table",
+    "output": "a spoon on the table - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make formal: A sunset over mountains",
+    "output": "The composition illustrates a sunset over mountains, demonstrating key structural elements"
+  },
+  {
+    "input": "Make formal: A hat on a hook",
+    "output": "Documentation indicates a hat on a hook, recorded in high-resolution format"
+  },
+  {
+    "input": "Make poetic: A flower in a garden",
+    "output": "Behold, a flower in a garden, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A pair of shoes by the door",
+    "output": "Nobody asked but here's a pair of shoes by the door living its best life"
+  },
+  {
+    "input": "Make formal: A lamp on a nightstand",
+    "output": "Visual analysis reveals a lamp on a nightstand, preserved for observational documentation"
+  },
+  {
+    "input": "Make poetic: A person reading a book",
+    "output": "In quiet repose, a person reading a book, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make short: A laptop on a desk",
+    "output": "Laptop on desk"
+  },
+  {
+    "input": "Make funny: A door with a handle",
+    "output": "Nobody asked but here's a door with a handle living its best life"
+  },
+  {
+    "input": "Make poetic: A pair of shoes by the door",
+    "output": "Upon this canvas, a pair of shoes by the door, painted by light divine"
+  },
+  {
+    "input": "Make poetic: Books on a shelf",
+    "output": "books on a shelf, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make formal: A glass of water",
+    "output": "The visual medium depicts a glass of water, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: A spoon on the table",
+    "output": "Here dwells a spoon on the table, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: A tree in the forest",
+    "output": "Plot twist: a tree in the forest, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: A candle burning brightly",
+    "output": "In quiet repose, a candle burning brightly, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make funny: A bridge over water",
+    "output": "POV: You're witnessing a bridge over water and it's everything"
+  },
+  {
+    "input": "Make formal: A vase with flowers",
+    "output": "Observational data shows a vase with flowers, documented for research purposes"
+  },
+  {
+    "input": "Make funny: A window with curtains",
+    "output": "Plot twist: a window with curtains, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: A painting on a wall",
+    "output": "Here dwells a painting on a wall, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make formal: A lamp on a nightstand",
+    "output": "Documentation indicates a lamp on a nightstand, recorded in high-resolution format"
+  },
+  {
+    "input": "Make funny: A bowl of fruit",
+    "output": "Sir/Madam, this is a bowl of fruit and we're not ready"
+  },
+  {
+    "input": "Make poetic: A building in the city",
+    "output": "In this frame, a building in the city, where stillness meets grace"
+  },
+  {
+    "input": "Make formal: Food on a plate",
+    "output": "The composition illustrates food on a plate, demonstrating key structural elements"
+  },
+  {
+    "input": "Make funny: A picture frame on a shelf",
+    "output": "When you see a picture frame on a shelf just existing flawlessly"
+  },
+  {
+    "input": "Make poetic: A mirror reflecting light",
+    "output": "Here dwells a mirror reflecting light, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make poetic: A picture frame on a shelf",
+    "output": "Through the lens, a picture frame on a shelf, forever preserved in beauty"
+  },
+  {
+    "input": "Make formal: A chair at a table",
+    "output": "The composition illustrates a chair at a table, demonstrating key structural elements"
+  },
+  {
+    "input": "Make poetic: A person holding a cup of coffee",
+    "output": "Upon this canvas, a person holding a cup of coffee, painted by light divine"
+  },
+  {
+    "input": "Make funny: A window with curtains",
+    "output": "Sir/Madam, this is a window with curtains and we're not ready"
+  },
+  {
+    "input": "Make poetic: A bowl of fruit",
+    "output": "In this frame, a bowl of fruit, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: A clock on the wall",
+    "output": "In quiet repose, a clock on the wall, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make poetic: Children playing in a park",
+    "output": "Here dwells children playing in a park, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: A bridge over water",
+    "output": "Nobody asked but here's a bridge over water living its best life"
+  },
+  {
+    "input": "Make formal: A spoon on the table",
+    "output": "Visual analysis reveals a spoon on the table, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: Books on a shelf",
+    "output": "The council has unanimously agreed that books on a shelf is art"
+  },
+  {
+    "input": "Make poetic: A hat on a hook",
+    "output": "In this frame, a hat on a hook, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: A tree in the forest",
+    "output": "Here dwells a tree in the forest, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make poetic: A painting on a wall",
+    "output": "Soft and serene, a painting on a wall, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: Books on a shelf",
+    "output": "Nobody asked but here's books on a shelf living its best life"
+  },
+  {
+    "input": "Make formal: A mirror reflecting light",
+    "output": "The photographic documentation depicts a mirror reflecting light, as recorded in the visual archive"
+  },
+  {
+    "input": "Make formal: A spoon on the table",
+    "output": "Documentation indicates a spoon on the table, recorded in high-resolution format"
+  },
+  {
+    "input": "Make funny: A plate with food",
+    "output": "Plot twist: a plate with food, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: A computer monitor on a desk",
+    "output": "Where a computer monitor on a desk rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make poetic: A cup on a saucer",
+    "output": "Through the lens, a cup on a saucer, forever preserved in beauty"
+  },
+  {
+    "input": "Make poetic: A bowl of fruit",
+    "output": "Soft and serene, a bowl of fruit, bathed in gentle radiance"
+  },
+  {
+    "input": "Make formal: A phone on a table",
+    "output": "This image presents a phone on a table, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make short: A hat on a hook",
+    "output": "Hat on hook"
+  },
+  {
+    "input": "Make formal: A painting on a wall",
+    "output": "Documentation indicates a painting on a wall, recorded in high-resolution format"
+  },
+  {
+    "input": "Make poetic: A door with a handle",
+    "output": "In this frame, a door with a handle, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: A building in the city",
+    "output": "Behold, a building in the city, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A computer monitor on a desk",
+    "output": "a computer monitor on a desk - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: A person holding a cup of coffee",
+    "output": "In quiet repose, a person holding a cup of coffee, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make formal: A cup on a saucer",
+    "output": "The captured frame presents a cup on a saucer, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A cat sleeping on a bed",
+    "output": "Here dwells a cat sleeping on a bed, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make poetic: A cat playing with a toy",
+    "output": "In this frame, a cat playing with a toy, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: A plate with food",
+    "output": "Upon this canvas, a plate with food, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A tree in the forest",
+    "output": "In this frame, a tree in the forest, where stillness meets grace"
+  },
+  {
+    "input": "Make formal: A cup on a saucer",
+    "output": "This image presents a cup on a saucer, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make funny: A sunset over mountains",
+    "output": "Behold! a sunset over mountains, serving looks since forever"
+  },
+  {
+    "input": "Make poetic: A lamp on a nightstand",
+    "output": "In quiet repose, a lamp on a nightstand, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make formal: A clock on the wall",
+    "output": "Observational data shows a clock on the wall, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A flower in a garden",
+    "output": "a flower in a garden, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make poetic: A car parked on the street",
+    "output": "Behold, a car parked on the street, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make formal: A glass of water",
+    "output": "The composition illustrates a glass of water, demonstrating key structural elements"
+  },
+  {
+    "input": "Make poetic: A computer monitor on a desk",
+    "output": "Through the lens, a computer monitor on a desk, forever preserved in beauty"
+  },
+  {
+    "input": "Make poetic: A tree in the forest",
+    "output": "In quiet repose, a tree in the forest, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make poetic: A dog running in a field",
+    "output": "In this frame, a dog running in a field, where stillness meets grace"
+  },
+  {
+    "input": "Make formal: A bird flying in the sky",
+    "output": "The visual medium depicts a bird flying in the sky, catalogued in the archival system"
+  },
+  {
+    "input": "Make funny: A flower in a garden",
+    "output": "The council has unanimously agreed that a flower in a garden is art"
+  },
+  {
+    "input": "Make poetic: Food on a plate",
+    "output": "Witness food on a plate, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make poetic: Books on a shelf",
+    "output": "Soft and serene, books on a shelf, bathed in gentle radiance"
+  },
+  {
+    "input": "Make formal: A tree in the forest",
+    "output": "Visual analysis reveals a tree in the forest, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: A cat sleeping on a bed",
+    "output": "The council has unanimously agreed that a cat sleeping on a bed is art"
+  },
+  {
+    "input": "Make funny: A clock on the wall",
+    "output": "Breaking: a clock on the wall, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make formal: Children playing in a park",
+    "output": "The visual medium depicts children playing in a park, catalogued in the archival system"
+  },
+  {
+    "input": "Make formal: A window with curtains",
+    "output": "The composition illustrates a window with curtains, demonstrating key structural elements"
+  },
+  {
+    "input": "Make formal: A tree in the forest",
+    "output": "The captured frame presents a tree in the forest, as evidenced in the visual record"
+  },
+  {
+    "input": "Make formal: A clock on the wall",
+    "output": "Documentation indicates a clock on the wall, recorded in high-resolution format"
+  },
+  {
+    "input": "Make formal: A computer monitor on a desk",
+    "output": "Visual analysis reveals a computer monitor on a desk, preserved for observational documentation"
+  },
+  {
+    "input": "Make poetic: People walking on a beach",
+    "output": "Witness people walking on a beach, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make funny: A glass of water",
+    "output": "a glass of water - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make formal: A plate with food",
+    "output": "The captured frame presents a plate with food, as evidenced in the visual record"
+  },
+  {
+    "input": "Make formal: A chair at a table",
+    "output": "Documentation indicates a chair at a table, recorded in high-resolution format"
+  },
+  {
+    "input": "Make funny: A dog running in a field",
+    "output": "Behold! a dog running in a field, serving looks since forever"
+  },
+  {
+    "input": "Make poetic: Food on a plate",
+    "output": "In this frame, food on a plate, where stillness meets grace"
+  },
+  {
+    "input": "Make formal: A candle burning brightly",
+    "output": "Documentation indicates a candle burning brightly, recorded in high-resolution format"
+  },
+  {
+    "input": "Make poetic: Clouds in the sky",
+    "output": "Where clouds in the sky rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make formal: A door with a handle",
+    "output": "The visual medium depicts a door with a handle, catalogued in the archival system"
+  },
+  {
+    "input": "Make funny: A clock on the wall",
+    "output": "Nobody asked but here's a clock on the wall living its best life"
+  },
+  {
+    "input": "Make funny: A building in the city",
+    "output": "a building in the city - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: A window with curtains",
+    "output": "Through the lens, a window with curtains, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A cat sleeping on a bed",
+    "output": "Breaking: a cat sleeping on a bed, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make short: A bridge over water",
+    "output": "Bridge over water"
+  },
+  {
+    "input": "Make funny: A painting on a wall",
+    "output": "a painting on a wall - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: A tree in the forest",
+    "output": "Behold, a tree in the forest, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A door with a handle",
+    "output": "Sir/Madam, this is a door with a handle and we're not ready"
+  },
+  {
+    "input": "Make funny: A computer monitor on a desk",
+    "output": "When you see a computer monitor on a desk just existing flawlessly"
+  },
+  {
+    "input": "Make poetic: A flower in a garden",
+    "output": "Through the lens, a flower in a garden, forever preserved in beauty"
+  },
+  {
+    "input": "Make poetic: A person holding a cup of coffee",
+    "output": "Behold, a person holding a cup of coffee, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: People walking on a beach",
+    "output": "POV: You're witnessing people walking on a beach and it's everything"
+  },
+  {
+    "input": "Make poetic: A flower in a garden",
+    "output": "In this frame, a flower in a garden, where stillness meets grace"
+  },
+  {
+    "input": "Make funny: Food on a plate",
+    "output": "Sir/Madam, this is food on a plate and we're not ready"
+  },
+  {
+    "input": "Make poetic: A phone on a table",
+    "output": "Behold, a phone on a table, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make poetic: A hat on a hook",
+    "output": "In quiet repose, a hat on a hook, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make poetic: A bird flying in the sky",
+    "output": "Upon this canvas, a bird flying in the sky, painted by light divine"
+  },
+  {
+    "input": "Make formal: A pair of shoes by the door",
+    "output": "The captured frame presents a pair of shoes by the door, as evidenced in the visual record"
+  },
+  {
+    "input": "Make formal: Children playing in a park",
+    "output": "Documentation indicates children playing in a park, recorded in high-resolution format"
+  },
+  {
+    "input": "Make funny: A bird flying in the sky",
+    "output": "Nobody asked but here's a bird flying in the sky living its best life"
+  },
+  {
+    "input": "Make poetic: A dog running in a field",
+    "output": "Where a dog running in a field rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: A lamp on a nightstand",
+    "output": "When you see a lamp on a nightstand just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A dog running in a field",
+    "output": "a dog running in a field - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: A glass of water",
+    "output": "Where a glass of water rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make formal: Food on a plate",
+    "output": "The visual medium depicts food on a plate, catalogued in the archival system"
+  },
+  {
+    "input": "Make formal: A person reading a book",
+    "output": "Visual analysis reveals a person reading a book, preserved for observational documentation"
+  },
+  {
+    "input": "Make poetic: A flower in a garden",
+    "output": "Soft and serene, a flower in a garden, bathed in gentle radiance"
+  },
+  {
+    "input": "Make formal: A plant in a pot",
+    "output": "Visual analysis reveals a plant in a pot, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: A mirror reflecting light",
+    "output": "Nobody asked but here's a mirror reflecting light living its best life"
+  },
+  {
+    "input": "Make poetic: A cup on a saucer",
+    "output": "a cup on a saucer, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make formal: A spoon on the table",
+    "output": "The visual medium depicts a spoon on the table, catalogued in the archival system"
+  },
+  {
+    "input": "Make formal: Clouds in the sky",
+    "output": "The visual medium depicts clouds in the sky, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: A cat playing with a toy",
+    "output": "Upon this canvas, a cat playing with a toy, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A sunset over mountains",
+    "output": "Where a sunset over mountains rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: A dog sitting on grass",
+    "output": "Plot twist: a dog sitting on grass, absolutely slaying the game"
+  },
+  {
+    "input": "Make funny: A flower in a garden",
+    "output": "Nobody asked but here's a flower in a garden living its best life"
+  },
+  {
+    "input": "Make poetic: A picture frame on a shelf",
+    "output": "Behold, a picture frame on a shelf, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make poetic: A bag on the floor",
+    "output": "Where a bag on the floor rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: A hat on a hook",
+    "output": "Ladies and gentlemen, a hat on a hook, and it's iconic"
+  },
+  {
+    "input": "Make funny: A spoon on the table",
+    "output": "When you see a spoon on the table just existing flawlessly"
+  },
+  {
+    "input": "Make funny: People walking on a beach",
+    "output": "Breaking: people walking on a beach, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make funny: A laptop on a desk",
+    "output": "When you see a laptop on a desk just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A flower in a garden",
+    "output": "Plot twist: a flower in a garden, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: A building in the city",
+    "output": "Here dwells a building in the city, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make formal: A dog running in a field",
+    "output": "The captured frame presents a dog running in a field, as evidenced in the visual record"
+  },
+  {
+    "input": "Make funny: Food on a plate",
+    "output": "Breaking: food on a plate, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make poetic: A bridge over water",
+    "output": "a bridge over water, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make poetic: A bridge over water",
+    "output": "Soft and serene, a bridge over water, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: A sunset over mountains",
+    "output": "a sunset over mountains - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make formal: A bag on the floor",
+    "output": "Observational data shows a bag on the floor, documented for research purposes"
+  },
+  {
+    "input": "Make formal: A tree in the forest",
+    "output": "The photographic documentation depicts a tree in the forest, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: A flower in a garden",
+    "output": "Witness a flower in a garden, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make formal: A plate with food",
+    "output": "The visual medium depicts a plate with food, catalogued in the archival system"
+  },
+  {
+    "input": "Make short: A lamp on a nightstand",
+    "output": "Lamp on nightstand"
+  },
+  {
+    "input": "Make poetic: A cup on a saucer",
+    "output": "In this frame, a cup on a saucer, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: A laptop on a desk",
+    "output": "a laptop on a desk, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make poetic: A mirror reflecting light",
+    "output": "Behold, a mirror reflecting light, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make formal: A plate with food",
+    "output": "Documentation indicates a plate with food, recorded in high-resolution format"
+  },
+  {
+    "input": "Make funny: A window with curtains",
+    "output": "Behold! a window with curtains, serving looks since forever"
+  },
+  {
+    "input": "Make poetic: A bird flying in the sky",
+    "output": "In this frame, a bird flying in the sky, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: Children playing in a park",
+    "output": "Upon this canvas, children playing in a park, painted by light divine"
+  },
+  {
+    "input": "Make short: A building in the city",
+    "output": "Building in city"
+  },
+  {
+    "input": "Make funny: A cat playing with a toy",
+    "output": "Breaking: a cat playing with a toy, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make formal: A candle burning brightly",
+    "output": "The composition illustrates a candle burning brightly, demonstrating key structural elements"
+  },
+  {
+    "input": "Make formal: A bridge over water",
+    "output": "This image presents a bridge over water, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make funny: Food on a plate",
+    "output": "The council has unanimously agreed that food on a plate is art"
+  },
+  {
+    "input": "Make poetic: People walking on a beach",
+    "output": "In quiet repose, people walking on a beach, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make poetic: Children playing in a park",
+    "output": "In quiet repose, children playing in a park, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make short: Books on a shelf",
+    "output": "Books on shelf"
+  },
+  {
+    "input": "Make poetic: A chair at a table",
+    "output": "Through the lens, a chair at a table, forever preserved in beauty"
+  },
+  {
+    "input": "Make formal: A window with curtains",
+    "output": "Visual analysis reveals a window with curtains, preserved for observational documentation"
+  },
+  {
+    "input": "Make formal: A person reading a book",
+    "output": "The captured frame presents a person reading a book, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A car parked on the street",
+    "output": "Witness a car parked on the street, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make short: A computer monitor on a desk",
+    "output": "Computer monitor on desk"
+  },
+  {
+    "input": "Make formal: A candle burning brightly",
+    "output": "Visual analysis reveals a candle burning brightly, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: A plant in a pot",
+    "output": "Plot twist: a plant in a pot, absolutely slaying the game"
+  },
+  {
+    "input": "Make formal: A vase with flowers",
+    "output": "The captured frame presents a vase with flowers, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A glass of water",
+    "output": "In this frame, a glass of water, where stillness meets grace"
+  },
+  {
+    "input": "Make formal: A pair of shoes by the door",
+    "output": "Documentation indicates a pair of shoes by the door, recorded in high-resolution format"
+  },
+  {
+    "input": "Make funny: A person reading a book",
+    "output": "a person reading a book - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: A glass of water",
+    "output": "In quiet repose, a glass of water, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make funny: A lamp on a nightstand",
+    "output": "Nobody asked but here's a lamp on a nightstand living its best life"
+  },
+  {
+    "input": "Make funny: A bicycle on a path",
+    "output": "Behold! a bicycle on a path, serving looks since forever"
+  },
+  {
+    "input": "Make poetic: A vase with flowers",
+    "output": "Behold, a vase with flowers, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make poetic: A car parked on the street",
+    "output": "Soft and serene, a car parked on the street, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: A chair at a table",
+    "output": "POV: You're witnessing a chair at a table and it's everything"
+  },
+  {
+    "input": "Make funny: A bicycle on a path",
+    "output": "Breaking: a bicycle on a path, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make funny: A painting on a wall",
+    "output": "Ladies and gentlemen, a painting on a wall, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A dog running in a field",
+    "output": "Through the lens, a dog running in a field, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A hat on a hook",
+    "output": "Behold! a hat on a hook, serving looks since forever"
+  },
+  {
+    "input": "Make funny: A vase with flowers",
+    "output": "Nobody asked but here's a vase with flowers living its best life"
+  },
+  {
+    "input": "Make funny: A building in the city",
+    "output": "Nobody asked but here's a building in the city living its best life"
+  },
+  {
+    "input": "Make poetic: A plate with food",
+    "output": "In this frame, a plate with food, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: A flower in a garden",
+    "output": "Where a flower in a garden rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make short: A cat sleeping on a bed",
+    "output": "Cat sleeping on bed"
+  },
+  {
+    "input": "Make funny: A person holding a cup of coffee",
+    "output": "Behold! a person holding a cup of coffee, serving looks since forever"
+  },
+  {
+    "input": "Make formal: A door with a handle",
+    "output": "The captured frame presents a door with a handle, as evidenced in the visual record"
+  },
+  {
+    "input": "Make funny: A chair at a table",
+    "output": "Nobody asked but here's a chair at a table living its best life"
+  },
+  {
+    "input": "Make funny: A bridge over water",
+    "output": "a bridge over water - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: Clouds in the sky",
+    "output": "Behold! clouds in the sky, serving looks since forever"
+  },
+  {
+    "input": "Make formal: A dog sitting on grass",
+    "output": "The visual medium depicts a dog sitting on grass, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: A chair at a table",
+    "output": "Witness a chair at a table, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make formal: A person reading a book",
+    "output": "Observational data shows a person reading a book, documented for research purposes"
+  },
+  {
+    "input": "Make formal: A bird flying in the sky",
+    "output": "Visual analysis reveals a bird flying in the sky, preserved for observational documentation"
+  },
+  {
+    "input": "Make formal: A person holding a cup of coffee",
+    "output": "The composition illustrates a person holding a cup of coffee, demonstrating key structural elements"
+  },
+  {
+    "input": "Make funny: A sunset over mountains",
+    "output": "POV: You're witnessing a sunset over mountains and it's everything"
+  },
+  {
+    "input": "Make funny: A tree in the forest",
+    "output": "Nobody asked but here's a tree in the forest living its best life"
+  },
+  {
+    "input": "Make poetic: A cat sleeping on a bed",
+    "output": "Soft and serene, a cat sleeping on a bed, bathed in gentle radiance"
+  },
+  {
+    "input": "Make poetic: Books on a shelf",
+    "output": "Through the lens, books on a shelf, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A cat playing with a toy",
+    "output": "Plot twist: a cat playing with a toy, absolutely slaying the game"
+  },
+  {
+    "input": "Make formal: People walking on a beach",
+    "output": "The photographic documentation depicts people walking on a beach, as recorded in the visual archive"
+  },
+  {
+    "input": "Make funny: A door with a handle",
+    "output": "When you see a door with a handle just existing flawlessly"
+  },
+  {
+    "input": "Make poetic: People walking on a beach",
+    "output": "Where people walking on a beach rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: Clouds in the sky",
+    "output": "Breaking: clouds in the sky, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make poetic: A laptop on a desk",
+    "output": "Upon this canvas, a laptop on a desk, painted by light divine"
+  },
+  {
+    "input": "Make funny: A dog sitting on grass",
+    "output": "POV: You're witnessing a dog sitting on grass and it's everything"
+  },
+  {
+    "input": "Make formal: A computer monitor on a desk",
+    "output": "The visual medium depicts a computer monitor on a desk, catalogued in the archival system"
+  },
+  {
+    "input": "Make formal: A laptop on a desk",
+    "output": "Documentation indicates a laptop on a desk, recorded in high-resolution format"
+  },
+  {
+    "input": "Make formal: A sunset over mountains",
+    "output": "The visual medium depicts a sunset over mountains, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: Books on a shelf",
+    "output": "Upon this canvas, books on a shelf, painted by light divine"
+  },
+  {
+    "input": "Make poetic: Children playing in a park",
+    "output": "Behold, children playing in a park, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A bird flying in the sky",
+    "output": "Plot twist: a bird flying in the sky, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: A bird flying in the sky",
+    "output": "In quiet repose, a bird flying in the sky, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make poetic: A cat playing with a toy",
+    "output": "Where a cat playing with a toy rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: A plate with food",
+    "output": "Sir/Madam, this is a plate with food and we're not ready"
+  },
+  {
+    "input": "Make funny: A car parked on the street",
+    "output": "Nobody asked but here's a car parked on the street living its best life"
+  },
+  {
+    "input": "Make poetic: A mirror reflecting light",
+    "output": "Where a mirror reflecting light rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make poetic: A bag on the floor",
+    "output": "Witness a bag on the floor, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make funny: A glass of water",
+    "output": "Plot twist: a glass of water, absolutely slaying the game"
+  },
+  {
+    "input": "Make formal: A spoon on the table",
+    "output": "This image presents a spoon on the table, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make formal: A mirror reflecting light",
+    "output": "The composition illustrates a mirror reflecting light, demonstrating key structural elements"
+  },
+  {
+    "input": "Make funny: A laptop on a desk",
+    "output": "The council has unanimously agreed that a laptop on a desk is art"
+  },
+  {
+    "input": "Make poetic: A bicycle on a path",
+    "output": "Behold, a bicycle on a path, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make short: A bicycle on a path",
+    "output": "Bicycle on path"
+  },
+  {
+    "input": "Make formal: A tree in the forest",
+    "output": "Observational data shows a tree in the forest, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A computer monitor on a desk",
+    "output": "Witness a computer monitor on a desk, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make poetic: A bicycle on a path",
+    "output": "Where a bicycle on a path rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make formal: A hat on a hook",
+    "output": "The captured frame presents a hat on a hook, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A lamp on a nightstand",
+    "output": "Here dwells a lamp on a nightstand, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: Children playing in a park",
+    "output": "children playing in a park - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: A door with a handle",
+    "output": "Breaking: a door with a handle, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make formal: A glass of water",
+    "output": "Documentation indicates a glass of water, recorded in high-resolution format"
+  },
+  {
+    "input": "Make funny: A candle burning brightly",
+    "output": "The council has unanimously agreed that a candle burning brightly is art"
+  },
+  {
+    "input": "Make formal: A candle burning brightly",
+    "output": "The visual medium depicts a candle burning brightly, catalogued in the archival system"
+  },
+  {
+    "input": "Make funny: A cup on a saucer",
+    "output": "When you see a cup on a saucer just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A spoon on the table",
+    "output": "The council has unanimously agreed that a spoon on the table is art"
+  },
+  {
+    "input": "Make formal: Food on a plate",
+    "output": "Documentation indicates food on a plate, recorded in high-resolution format"
+  },
+  {
+    "input": "Make formal: A car parked on the street",
+    "output": "This image presents a car parked on the street, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make poetic: A plant in a pot",
+    "output": "In quiet repose, a plant in a pot, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make formal: A cat sleeping on a bed",
+    "output": "The visual medium depicts a cat sleeping on a bed, catalogued in the archival system"
+  },
+  {
+    "input": "Make funny: A car parked on the street",
+    "output": "Behold! a car parked on the street, serving looks since forever"
+  },
+  {
+    "input": "Make funny: A vase with flowers",
+    "output": "POV: You're witnessing a vase with flowers and it's everything"
+  },
+  {
+    "input": "Make formal: A candle burning brightly",
+    "output": "The captured frame presents a candle burning brightly, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A bowl of fruit",
+    "output": "Through the lens, a bowl of fruit, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A chair at a table",
+    "output": "a chair at a table - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: A bridge over water",
+    "output": "Upon this canvas, a bridge over water, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A cat sleeping on a bed",
+    "output": "Through the lens, a cat sleeping on a bed, forever preserved in beauty"
+  },
+  {
+    "input": "Make formal: A mirror reflecting light",
+    "output": "The visual medium depicts a mirror reflecting light, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: A sunset over mountains",
+    "output": "Upon this canvas, a sunset over mountains, painted by light divine"
+  },
+  {
+    "input": "Make formal: A bicycle on a path",
+    "output": "The composition illustrates a bicycle on a path, demonstrating key structural elements"
+  },
+  {
+    "input": "Make funny: A plant in a pot",
+    "output": "Sir/Madam, this is a plant in a pot and we're not ready"
+  },
+  {
+    "input": "Make funny: A dog running in a field",
+    "output": "Breaking: a dog running in a field, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make short: A glass of water",
+    "output": "Glass of water"
+  },
+  {
+    "input": "Make funny: A mirror reflecting light",
+    "output": "POV: You're witnessing a mirror reflecting light and it's everything"
+  },
+  {
+    "input": "Make poetic: A candle burning brightly",
+    "output": "Behold, a candle burning brightly, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make formal: A bag on the floor",
+    "output": "The captured frame presents a bag on the floor, as evidenced in the visual record"
+  },
+  {
+    "input": "Make funny: A bicycle on a path",
+    "output": "The council has unanimously agreed that a bicycle on a path is art"
+  },
+  {
+    "input": "Make short: A plate with food",
+    "output": "Plate with food"
+  },
+  {
+    "input": "Make funny: A bag on the floor",
+    "output": "Breaking: a bag on the floor, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make formal: A window with curtains",
+    "output": "The captured frame presents a window with curtains, as evidenced in the visual record"
+  },
+  {
+    "input": "Make funny: A bird flying in the sky",
+    "output": "The council has unanimously agreed that a bird flying in the sky is art"
+  },
+  {
+    "input": "Make formal: A plate with food",
+    "output": "This image presents a plate with food, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make funny: A glass of water",
+    "output": "The council has unanimously agreed that a glass of water is art"
+  },
+  {
+    "input": "Make funny: A chair at a table",
+    "output": "Sir/Madam, this is a chair at a table and we're not ready"
+  },
+  {
+    "input": "Make poetic: Clouds in the sky",
+    "output": "Behold, clouds in the sky, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A dog running in a field",
+    "output": "When you see a dog running in a field just existing flawlessly"
+  },
+  {
+    "input": "Make formal: A person holding a cup of coffee",
+    "output": "The photographic documentation depicts a person holding a cup of coffee, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: A sunset over mountains",
+    "output": "In this frame, a sunset over mountains, where stillness meets grace"
+  },
+  {
+    "input": "Make funny: A laptop on a desk",
+    "output": "Behold! a laptop on a desk, serving looks since forever"
+  },
+  {
+    "input": "Make funny: A plate with food",
+    "output": "POV: You're witnessing a plate with food and it's everything"
+  },
+  {
+    "input": "Make poetic: A dog sitting on grass",
+    "output": "Where a dog sitting on grass rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make poetic: A cup on a saucer",
+    "output": "Here dwells a cup on a saucer, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make poetic: A person reading a book",
+    "output": "Behold, a person reading a book, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A hat on a hook",
+    "output": "Plot twist: a hat on a hook, absolutely slaying the game"
+  },
+  {
+    "input": "Make formal: A bicycle on a path",
+    "output": "The photographic documentation depicts a bicycle on a path, as recorded in the visual archive"
+  },
+  {
+    "input": "Make funny: A pair of shoes by the door",
+    "output": "Ladies and gentlemen, a pair of shoes by the door, and it's iconic"
+  },
+  {
+    "input": "Make funny: Clouds in the sky",
+    "output": "POV: You're witnessing clouds in the sky and it's everything"
+  },
+  {
+    "input": "Make formal: A bird flying in the sky",
+    "output": "Documentation indicates a bird flying in the sky, recorded in high-resolution format"
+  },
+  {
+    "input": "Make short: A candle burning brightly",
+    "output": "Candle burning brightly"
+  },
+  {
+    "input": "Make poetic: A plate with food",
+    "output": "Here dwells a plate with food, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: A phone on a table",
+    "output": "Nobody asked but here's a phone on a table living its best life"
+  },
+  {
+    "input": "Make funny: A phone on a table",
+    "output": "Plot twist: a phone on a table, absolutely slaying the game"
+  },
+  {
+    "input": "Make short: A picture frame on a shelf",
+    "output": "Picture frame on shelf"
+  },
+  {
+    "input": "Make short: A person reading a book",
+    "output": "Person reading book"
+  },
+  {
+    "input": "Make funny: A picture frame on a shelf",
+    "output": "Plot twist: a picture frame on a shelf, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: A painting on a wall",
+    "output": "a painting on a wall, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make funny: A cup on a saucer",
+    "output": "Sir/Madam, this is a cup on a saucer and we're not ready"
+  },
+  {
+    "input": "Make formal: A laptop on a desk",
+    "output": "The photographic documentation depicts a laptop on a desk, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: A chair at a table",
+    "output": "In this frame, a chair at a table, where stillness meets grace"
+  },
+  {
+    "input": "Make funny: A car parked on the street",
+    "output": "When you see a car parked on the street just existing flawlessly"
+  },
+  {
+    "input": "Make poetic: A bowl of fruit",
+    "output": "Where a bowl of fruit rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: A chair at a table",
+    "output": "Ladies and gentlemen, a chair at a table, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A candle burning brightly",
+    "output": "Where a candle burning brightly rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: A computer monitor on a desk",
+    "output": "Behold! a computer monitor on a desk, serving looks since forever"
+  },
+  {
+    "input": "Make formal: A computer monitor on a desk",
+    "output": "Documentation indicates a computer monitor on a desk, recorded in high-resolution format"
+  },
+  {
+    "input": "Make funny: Clouds in the sky",
+    "output": "The council has unanimously agreed that clouds in the sky is art"
+  },
+  {
+    "input": "Make formal: Food on a plate",
+    "output": "The photographic documentation depicts food on a plate, as recorded in the visual archive"
+  },
+  {
+    "input": "Make formal: A bowl of fruit",
+    "output": "The captured frame presents a bowl of fruit, as evidenced in the visual record"
+  },
+  {
+    "input": "Make formal: A picture frame on a shelf",
+    "output": "This image presents a picture frame on a shelf, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make formal: A dog sitting on grass",
+    "output": "The captured frame presents a dog sitting on grass, as evidenced in the visual record"
+  },
+  {
+    "input": "Make formal: A vase with flowers",
+    "output": "The composition illustrates a vase with flowers, demonstrating key structural elements"
+  },
+  {
+    "input": "Make poetic: A bag on the floor",
+    "output": "a bag on the floor, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make formal: A pair of shoes by the door",
+    "output": "The composition illustrates a pair of shoes by the door, demonstrating key structural elements"
+  },
+  {
+    "input": "Make formal: A hat on a hook",
+    "output": "This image presents a hat on a hook, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make funny: A bag on the floor",
+    "output": "The council has unanimously agreed that a bag on the floor is art"
+  },
+  {
+    "input": "Make formal: A lamp on a nightstand",
+    "output": "The composition illustrates a lamp on a nightstand, demonstrating key structural elements"
+  },
+  {
+    "input": "Make formal: A mirror reflecting light",
+    "output": "The captured frame presents a mirror reflecting light, as evidenced in the visual record"
+  },
+  {
+    "input": "Make funny: A pair of shoes by the door",
+    "output": "When you see a pair of shoes by the door just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A laptop on a desk",
+    "output": "Nobody asked but here's a laptop on a desk living its best life"
+  },
+  {
+    "input": "Make short: A spoon on the table",
+    "output": "Spoon on table"
+  },
+  {
+    "input": "Make funny: A cat sleeping on a bed",
+    "output": "Sir/Madam, this is a cat sleeping on a bed and we're not ready"
+  },
+  {
+    "input": "Make funny: A bicycle on a path",
+    "output": "When you see a bicycle on a path just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A person reading a book",
+    "output": "Behold! a person reading a book, serving looks since forever"
+  },
+  {
+    "input": "Make funny: A spoon on the table",
+    "output": "Ladies and gentlemen, a spoon on the table, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A picture frame on a shelf",
+    "output": "Witness a picture frame on a shelf, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make formal: A door with a handle",
+    "output": "Documentation indicates a door with a handle, recorded in high-resolution format"
+  },
+  {
+    "input": "Make formal: A computer monitor on a desk",
+    "output": "The composition illustrates a computer monitor on a desk, demonstrating key structural elements"
+  },
+  {
+    "input": "Make formal: A spoon on the table",
+    "output": "The captured frame presents a spoon on the table, as evidenced in the visual record"
+  },
+  {
+    "input": "Make funny: A car parked on the street",
+    "output": "The council has unanimously agreed that a car parked on the street is art"
+  },
+  {
+    "input": "Make funny: A dog sitting on grass",
+    "output": "Breaking: a dog sitting on grass, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make funny: A plant in a pot",
+    "output": "Behold! a plant in a pot, serving looks since forever"
+  },
+  {
+    "input": "Make poetic: A pair of shoes by the door",
+    "output": "In quiet repose, a pair of shoes by the door, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make poetic: A vase with flowers",
+    "output": "Soft and serene, a vase with flowers, bathed in gentle radiance"
+  },
+  {
+    "input": "Make formal: A laptop on a desk",
+    "output": "The composition illustrates a laptop on a desk, demonstrating key structural elements"
+  },
+  {
+    "input": "Make funny: A cup on a saucer",
+    "output": "Ladies and gentlemen, a cup on a saucer, and it's iconic"
+  },
+  {
+    "input": "Make formal: A bowl of fruit",
+    "output": "The photographic documentation depicts a bowl of fruit, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: Children playing in a park",
+    "output": "Through the lens, children playing in a park, forever preserved in beauty"
+  },
+  {
+    "input": "Make formal: A cat sleeping on a bed",
+    "output": "Visual analysis reveals a cat sleeping on a bed, preserved for observational documentation"
+  },
+  {
+    "input": "Make formal: A painting on a wall",
+    "output": "Observational data shows a painting on a wall, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A sunset over mountains",
+    "output": "a sunset over mountains, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make formal: A picture frame on a shelf",
+    "output": "The captured frame presents a picture frame on a shelf, as evidenced in the visual record"
+  },
+  {
+    "input": "Make funny: A bicycle on a path",
+    "output": "Sir/Madam, this is a bicycle on a path and we're not ready"
+  },
+  {
+    "input": "Make funny: A bridge over water",
+    "output": "When you see a bridge over water just existing flawlessly"
+  },
+  {
+    "input": "Make poetic: A painting on a wall",
+    "output": "Where a painting on a wall rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make formal: A person reading a book",
+    "output": "The composition illustrates a person reading a book, demonstrating key structural elements"
+  },
+  {
+    "input": "Make formal: A bird flying in the sky",
+    "output": "The photographic documentation depicts a bird flying in the sky, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: A hat on a hook",
+    "output": "Behold, a hat on a hook, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make poetic: A person holding a cup of coffee",
+    "output": "In this frame, a person holding a cup of coffee, where stillness meets grace"
+  },
+  {
+    "input": "Make formal: A clock on the wall",
+    "output": "The visual medium depicts a clock on the wall, catalogued in the archival system"
+  },
+  {
+    "input": "Make formal: People walking on a beach",
+    "output": "The composition illustrates people walking on a beach, demonstrating key structural elements"
+  },
+  {
+    "input": "Make poetic: A vase with flowers",
+    "output": "Upon this canvas, a vase with flowers, painted by light divine"
+  },
+  {
+    "input": "Make funny: Books on a shelf",
+    "output": "Sir/Madam, this is books on a shelf and we're not ready"
+  },
+  {
+    "input": "Make poetic: A clock on the wall",
+    "output": "Upon this canvas, a clock on the wall, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A vase with flowers",
+    "output": "In quiet repose, a vase with flowers, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make funny: People walking on a beach",
+    "output": "Nobody asked but here's people walking on a beach living its best life"
+  },
+  {
+    "input": "Make poetic: A spoon on the table",
+    "output": "Witness a spoon on the table, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make formal: A bird flying in the sky",
+    "output": "This image presents a bird flying in the sky, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make funny: A hat on a hook",
+    "output": "When you see a hat on a hook just existing flawlessly"
+  },
+  {
+    "input": "Make formal: Books on a shelf",
+    "output": "The visual medium depicts books on a shelf, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: Food on a plate",
+    "output": "Behold, food on a plate, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make poetic: A mirror reflecting light",
+    "output": "In this frame, a mirror reflecting light, where stillness meets grace"
+  },
+  {
+    "input": "Make funny: A building in the city",
+    "output": "Sir/Madam, this is a building in the city and we're not ready"
+  },
+  {
+    "input": "Make funny: A plant in a pot",
+    "output": "Breaking: a plant in a pot, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make formal: A candle burning brightly",
+    "output": "Observational data shows a candle burning brightly, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: Clouds in the sky",
+    "output": "In this frame, clouds in the sky, where stillness meets grace"
+  },
+  {
+    "input": "Make formal: People walking on a beach",
+    "output": "The captured frame presents people walking on a beach, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A cat playing with a toy",
+    "output": "Here dwells a cat playing with a toy, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make formal: A picture frame on a shelf",
+    "output": "Observational data shows a picture frame on a shelf, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A clock on the wall",
+    "output": "Behold, a clock on the wall, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A person reading a book",
+    "output": "Nobody asked but here's a person reading a book living its best life"
+  },
+  {
+    "input": "Make funny: Books on a shelf",
+    "output": "POV: You're witnessing books on a shelf and it's everything"
+  },
+  {
+    "input": "Make short: A phone on a table",
+    "output": "Phone on table"
+  },
+  {
+    "input": "Make formal: A person reading a book",
+    "output": "Documentation indicates a person reading a book, recorded in high-resolution format"
+  },
+  {
+    "input": "Make poetic: A pair of shoes by the door",
+    "output": "Soft and serene, a pair of shoes by the door, bathed in gentle radiance"
+  },
+  {
+    "input": "Make poetic: A plant in a pot",
+    "output": "Witness a plant in a pot, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make poetic: A clock on the wall",
+    "output": "Here dwells a clock on the wall, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make formal: A laptop on a desk",
+    "output": "The captured frame presents a laptop on a desk, as evidenced in the visual record"
+  },
+  {
+    "input": "Make funny: A mirror reflecting light",
+    "output": "Plot twist: a mirror reflecting light, absolutely slaying the game"
+  },
+  {
+    "input": "Make funny: A person holding a cup of coffee",
+    "output": "Sir/Madam, this is a person holding a cup of coffee and we're not ready"
+  },
+  {
+    "input": "Make funny: Food on a plate",
+    "output": "When you see food on a plate just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A building in the city",
+    "output": "The council has unanimously agreed that a building in the city is art"
+  },
+  {
+    "input": "Make formal: A chair at a table",
+    "output": "Observational data shows a chair at a table, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A car parked on the street",
+    "output": "a car parked on the street, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make funny: A bird flying in the sky",
+    "output": "Behold! a bird flying in the sky, serving looks since forever"
+  },
+  {
+    "input": "Make funny: A cup on a saucer",
+    "output": "The council has unanimously agreed that a cup on a saucer is art"
+  },
+  {
+    "input": "Make funny: A bird flying in the sky",
+    "output": "POV: You're witnessing a bird flying in the sky and it's everything"
+  },
+  {
+    "input": "Make formal: Clouds in the sky",
+    "output": "Observational data shows clouds in the sky, documented for research purposes"
+  },
+  {
+    "input": "Make funny: A dog sitting on grass",
+    "output": "Sir/Madam, this is a dog sitting on grass and we're not ready"
+  },
+  {
+    "input": "Make poetic: A tree in the forest",
+    "output": "Upon this canvas, a tree in the forest, painted by light divine"
+  },
+  {
+    "input": "Make funny: A bird flying in the sky",
+    "output": "Sir/Madam, this is a bird flying in the sky and we're not ready"
+  },
+  {
+    "input": "Make formal: A chair at a table",
+    "output": "The visual medium depicts a chair at a table, catalogued in the archival system"
+  },
+  {
+    "input": "Make formal: A building in the city",
+    "output": "Observational data shows a building in the city, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A hat on a hook",
+    "output": "Witness a hat on a hook, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make poetic: Books on a shelf",
+    "output": "Witness books on a shelf, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make funny: A bicycle on a path",
+    "output": "Ladies and gentlemen, a bicycle on a path, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A dog running in a field",
+    "output": "Soft and serene, a dog running in a field, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: A candle burning brightly",
+    "output": "Sir/Madam, this is a candle burning brightly and we're not ready"
+  },
+  {
+    "input": "Make poetic: A dog sitting on grass",
+    "output": "Here dwells a dog sitting on grass, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make poetic: A vase with flowers",
+    "output": "Witness a vase with flowers, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make poetic: People walking on a beach",
+    "output": "people walking on a beach, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make formal: A sunset over mountains",
+    "output": "Documentation indicates a sunset over mountains, recorded in high-resolution format"
+  },
+  {
+    "input": "Make formal: A picture frame on a shelf",
+    "output": "The composition illustrates a picture frame on a shelf, demonstrating key structural elements"
+  },
+  {
+    "input": "Make funny: A window with curtains",
+    "output": "Ladies and gentlemen, a window with curtains, and it's iconic"
+  },
+  {
+    "input": "Make funny: A glass of water",
+    "output": "Ladies and gentlemen, a glass of water, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A pair of shoes by the door",
+    "output": "Witness a pair of shoes by the door, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make poetic: A bird flying in the sky",
+    "output": "Through the lens, a bird flying in the sky, forever preserved in beauty"
+  },
+  {
+    "input": "Make formal: A computer monitor on a desk",
+    "output": "The photographic documentation depicts a computer monitor on a desk, as recorded in the visual archive"
+  },
+  {
+    "input": "Make formal: A lamp on a nightstand",
+    "output": "This image presents a lamp on a nightstand, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make short: Children playing in a park",
+    "output": "Children playing in park"
+  },
+  {
+    "input": "Make funny: A bridge over water",
+    "output": "Plot twist: a bridge over water, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: Children playing in a park",
+    "output": "In this frame, children playing in a park, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: A glass of water",
+    "output": "Behold, a glass of water, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make formal: A plate with food",
+    "output": "Observational data shows a plate with food, documented for research purposes"
+  },
+  {
+    "input": "Make funny: A cup on a saucer",
+    "output": "Breaking: a cup on a saucer, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make funny: A clock on the wall",
+    "output": "The council has unanimously agreed that a clock on the wall is art"
+  },
+  {
+    "input": "Make poetic: A plate with food",
+    "output": "Witness a plate with food, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make formal: A glass of water",
+    "output": "The photographic documentation depicts a glass of water, as recorded in the visual archive"
+  },
+  {
+    "input": "Make formal: A bridge over water",
+    "output": "The photographic documentation depicts a bridge over water, as recorded in the visual archive"
+  },
+  {
+    "input": "Make funny: A cat sleeping on a bed",
+    "output": "a cat sleeping on a bed - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: A door with a handle",
+    "output": "a door with a handle, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make formal: A chair at a table",
+    "output": "The photographic documentation depicts a chair at a table, as recorded in the visual archive"
+  },
+  {
+    "input": "Make funny: People walking on a beach",
+    "output": "Plot twist: people walking on a beach, absolutely slaying the game"
+  },
+  {
+    "input": "Make formal: A window with curtains",
+    "output": "This image presents a window with curtains, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make formal: A building in the city",
+    "output": "The visual medium depicts a building in the city, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: Food on a plate",
+    "output": "food on a plate, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make funny: People walking on a beach",
+    "output": "Ladies and gentlemen, people walking on a beach, and it's iconic"
+  },
+  {
+    "input": "Make funny: A bicycle on a path",
+    "output": "Plot twist: a bicycle on a path, absolutely slaying the game"
+  },
+  {
+    "input": "Make formal: A pair of shoes by the door",
+    "output": "The visual medium depicts a pair of shoes by the door, catalogued in the archival system"
+  },
+  {
+    "input": "Make formal: Children playing in a park",
+    "output": "This image presents children playing in a park, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make funny: Books on a shelf",
+    "output": "Breaking: books on a shelf, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make poetic: A pair of shoes by the door",
+    "output": "In this frame, a pair of shoes by the door, where stillness meets grace"
+  },
+  {
+    "input": "Make funny: A picture frame on a shelf",
+    "output": "Behold! a picture frame on a shelf, serving looks since forever"
+  },
+  {
+    "input": "Make funny: A plate with food",
+    "output": "When you see a plate with food just existing flawlessly"
+  },
+  {
+    "input": "Make poetic: A cat sleeping on a bed",
+    "output": "Behold, a cat sleeping on a bed, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A door with a handle",
+    "output": "Ladies and gentlemen, a door with a handle, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A door with a handle",
+    "output": "Behold, a door with a handle, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A vase with flowers",
+    "output": "Behold! a vase with flowers, serving looks since forever"
+  },
+  {
+    "input": "Make formal: A phone on a table",
+    "output": "Documentation indicates a phone on a table, recorded in high-resolution format"
+  },
+  {
+    "input": "Make poetic: Books on a shelf",
+    "output": "Where books on a shelf rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make formal: A mirror reflecting light",
+    "output": "Documentation indicates a mirror reflecting light, recorded in high-resolution format"
+  },
+  {
+    "input": "Make short: A cup on a saucer",
+    "output": "Cup on saucer"
+  },
+  {
+    "input": "Make formal: A dog sitting on grass",
+    "output": "Observational data shows a dog sitting on grass, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: Food on a plate",
+    "output": "Through the lens, food on a plate, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A picture frame on a shelf",
+    "output": "a picture frame on a shelf - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make formal: A car parked on the street",
+    "output": "The captured frame presents a car parked on the street, as evidenced in the visual record"
+  },
+  {
+    "input": "Make formal: Books on a shelf",
+    "output": "Observational data shows books on a shelf, documented for research purposes"
+  },
+  {
+    "input": "Make funny: A painting on a wall",
+    "output": "POV: You're witnessing a painting on a wall and it's everything"
+  },
+  {
+    "input": "Make short: A door with a handle",
+    "output": "Door with handle"
+  },
+  {
+    "input": "Make poetic: Books on a shelf",
+    "output": "Behold, books on a shelf, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A sunset over mountains",
+    "output": "When you see a sunset over mountains just existing flawlessly"
+  },
+  {
+    "input": "Make short: Clouds in the sky",
+    "output": "Clouds in sky"
+  },
+  {
+    "input": "Make formal: A car parked on the street",
+    "output": "Observational data shows a car parked on the street, documented for research purposes"
+  },
+  {
+    "input": "Make formal: Books on a shelf",
+    "output": "The captured frame presents books on a shelf, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A tree in the forest",
+    "output": "Soft and serene, a tree in the forest, bathed in gentle radiance"
+  },
+  {
+    "input": "Make poetic: A chair at a table",
+    "output": "Upon this canvas, a chair at a table, painted by light divine"
+  },
+  {
+    "input": "Make funny: A car parked on the street",
+    "output": "Ladies and gentlemen, a car parked on the street, and it's iconic"
+  },
+  {
+    "input": "Make funny: A chair at a table",
+    "output": "Behold! a chair at a table, serving looks since forever"
+  },
+  {
+    "input": "Make poetic: A person reading a book",
+    "output": "Here dwells a person reading a book, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make poetic: A bridge over water",
+    "output": "Through the lens, a bridge over water, forever preserved in beauty"
+  },
+  {
+    "input": "Make poetic: A dog sitting on grass",
+    "output": "Through the lens, a dog sitting on grass, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A door with a handle",
+    "output": "a door with a handle - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: A tree in the forest",
+    "output": "Behold! a tree in the forest, serving looks since forever"
+  },
+  {
+    "input": "Make poetic: A person reading a book",
+    "output": "Upon this canvas, a person reading a book, painted by light divine"
+  },
+  {
+    "input": "Make short: A bag on the floor",
+    "output": "Bag on floor"
+  },
+  {
+    "input": "Make formal: Children playing in a park",
+    "output": "Observational data shows children playing in a park, documented for research purposes"
+  },
+  {
+    "input": "Make funny: A cat sleeping on a bed",
+    "output": "POV: You're witnessing a cat sleeping on a bed and it's everything"
+  },
+  {
+    "input": "Make poetic: A person holding a cup of coffee",
+    "output": "Witness a person holding a cup of coffee, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make funny: A flower in a garden",
+    "output": "Behold! a flower in a garden, serving looks since forever"
+  },
+  {
+    "input": "Make poetic: A laptop on a desk",
+    "output": "Through the lens, a laptop on a desk, forever preserved in beauty"
+  },
+  {
+    "input": "Make poetic: A cat playing with a toy",
+    "output": "Witness a cat playing with a toy, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make short: Food on a plate",
+    "output": "Food on plate"
+  },
+  {
+    "input": "Make formal: Clouds in the sky",
+    "output": "Visual analysis reveals clouds in the sky, preserved for observational documentation"
+  },
+  {
+    "input": "Make poetic: A bag on the floor",
+    "output": "Soft and serene, a bag on the floor, bathed in gentle radiance"
+  },
+  {
+    "input": "Make short: A car parked on the street",
+    "output": "Car parked on street"
+  },
+  {
+    "input": "Make poetic: A bag on the floor",
+    "output": "In quiet repose, a bag on the floor, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make funny: A bicycle on a path",
+    "output": "Nobody asked but here's a bicycle on a path living its best life"
+  },
+  {
+    "input": "Make funny: A sunset over mountains",
+    "output": "Sir/Madam, this is a sunset over mountains and we're not ready"
+  },
+  {
+    "input": "Make poetic: Books on a shelf",
+    "output": "Here dwells books on a shelf, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make poetic: A glass of water",
+    "output": "Through the lens, a glass of water, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A picture frame on a shelf",
+    "output": "Sir/Madam, this is a picture frame on a shelf and we're not ready"
+  },
+  {
+    "input": "Make poetic: A vase with flowers",
+    "output": "In this frame, a vase with flowers, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: A bridge over water",
+    "output": "In quiet repose, a bridge over water, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make funny: A painting on a wall",
+    "output": "Nobody asked but here's a painting on a wall living its best life"
+  },
+  {
+    "input": "Make poetic: A computer monitor on a desk",
+    "output": "Behold, a computer monitor on a desk, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A chair at a table",
+    "output": "Plot twist: a chair at a table, absolutely slaying the game"
+  },
+  {
+    "input": "Make formal: A dog running in a field",
+    "output": "The photographic documentation depicts a dog running in a field, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: Books on a shelf",
+    "output": "In this frame, books on a shelf, where stillness meets grace"
+  },
+  {
+    "input": "Make formal: A plant in a pot",
+    "output": "The composition illustrates a plant in a pot, demonstrating key structural elements"
+  },
+  {
+    "input": "Make funny: Children playing in a park",
+    "output": "The council has unanimously agreed that children playing in a park is art"
+  },
+  {
+    "input": "Make formal: A bridge over water",
+    "output": "Documentation indicates a bridge over water, recorded in high-resolution format"
+  },
+  {
+    "input": "Make formal: A painting on a wall",
+    "output": "This image presents a painting on a wall, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make poetic: Food on a plate",
+    "output": "Here dwells food on a plate, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make formal: People walking on a beach",
+    "output": "The visual medium depicts people walking on a beach, catalogued in the archival system"
+  },
+  {
+    "input": "Make funny: Books on a shelf",
+    "output": "books on a shelf - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: A cup on a saucer",
+    "output": "Nobody asked but here's a cup on a saucer living its best life"
+  },
+  {
+    "input": "Make funny: A bag on the floor",
+    "output": "Plot twist: a bag on the floor, absolutely slaying the game"
+  },
+  {
+    "input": "Make formal: A tree in the forest",
+    "output": "Documentation indicates a tree in the forest, recorded in high-resolution format"
+  },
+  {
+    "input": "Make formal: A person reading a book",
+    "output": "The visual medium depicts a person reading a book, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: A sunset over mountains",
+    "output": "Behold, a sunset over mountains, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make poetic: A chair at a table",
+    "output": "Here dwells a chair at a table, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make formal: A clock on the wall",
+    "output": "The captured frame presents a clock on the wall, as evidenced in the visual record"
+  },
+  {
+    "input": "Make funny: A mirror reflecting light",
+    "output": "Breaking: a mirror reflecting light, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make formal: A building in the city",
+    "output": "The photographic documentation depicts a building in the city, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: A building in the city",
+    "output": "In quiet repose, a building in the city, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make poetic: A dog running in a field",
+    "output": "Upon this canvas, a dog running in a field, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A candle burning brightly",
+    "output": "Through the lens, a candle burning brightly, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A bowl of fruit",
+    "output": "Behold! a bowl of fruit, serving looks since forever"
+  },
+  {
+    "input": "Make funny: A window with curtains",
+    "output": "POV: You're witnessing a window with curtains and it's everything"
+  },
+  {
+    "input": "Make formal: Books on a shelf",
+    "output": "This image presents books on a shelf, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make formal: A cat sleeping on a bed",
+    "output": "Documentation indicates a cat sleeping on a bed, recorded in high-resolution format"
+  },
+  {
+    "input": "Make poetic: A cat playing with a toy",
+    "output": "In quiet repose, a cat playing with a toy, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make funny: Clouds in the sky",
+    "output": "Ladies and gentlemen, clouds in the sky, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A vase with flowers",
+    "output": "Through the lens, a vase with flowers, forever preserved in beauty"
+  },
+  {
+    "input": "Make poetic: A pair of shoes by the door",
+    "output": "a pair of shoes by the door, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make funny: A plate with food",
+    "output": "Behold! a plate with food, serving looks since forever"
+  },
+  {
+    "input": "Make formal: A phone on a table",
+    "output": "Observational data shows a phone on a table, documented for research purposes"
+  },
+  {
+    "input": "Make formal: A bridge over water",
+    "output": "The visual medium depicts a bridge over water, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: A plate with food",
+    "output": "Behold, a plate with food, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A hat on a hook",
+    "output": "The council has unanimously agreed that a hat on a hook is art"
+  },
+  {
+    "input": "Make poetic: A picture frame on a shelf",
+    "output": "Upon this canvas, a picture frame on a shelf, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A car parked on the street",
+    "output": "Where a car parked on the street rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make formal: A clock on the wall",
+    "output": "The photographic documentation depicts a clock on the wall, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: Clouds in the sky",
+    "output": "Witness clouds in the sky, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make poetic: A picture frame on a shelf",
+    "output": "In quiet repose, a picture frame on a shelf, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make short: A painting on a wall",
+    "output": "Painting on wall"
+  },
+  {
+    "input": "Make poetic: A car parked on the street",
+    "output": "Upon this canvas, a car parked on the street, painted by light divine"
+  },
+  {
+    "input": "Make funny: A bridge over water",
+    "output": "Breaking: a bridge over water, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make poetic: A flower in a garden",
+    "output": "Here dwells a flower in a garden, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make formal: Books on a shelf",
+    "output": "The composition illustrates books on a shelf, demonstrating key structural elements"
+  },
+  {
+    "input": "Make funny: A clock on the wall",
+    "output": "Sir/Madam, this is a clock on the wall and we're not ready"
+  },
+  {
+    "input": "Make funny: A bag on the floor",
+    "output": "Nobody asked but here's a bag on the floor living its best life"
+  },
+  {
+    "input": "Make poetic: A door with a handle",
+    "output": "Where a door with a handle rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: A laptop on a desk",
+    "output": "Plot twist: a laptop on a desk, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: A door with a handle",
+    "output": "Witness a door with a handle, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make poetic: A chair at a table",
+    "output": "In quiet repose, a chair at a table, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make funny: Books on a shelf",
+    "output": "Behold! books on a shelf, serving looks since forever"
+  },
+  {
+    "input": "Make funny: A bag on the floor",
+    "output": "When you see a bag on the floor just existing flawlessly"
+  },
+  {
+    "input": "Make formal: A cat playing with a toy",
+    "output": "The composition illustrates a cat playing with a toy, demonstrating key structural elements"
+  },
+  {
+    "input": "Make funny: A tree in the forest",
+    "output": "The council has unanimously agreed that a tree in the forest is art"
+  },
+  {
+    "input": "Make funny: A plate with food",
+    "output": "a plate with food - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: A bridge over water",
+    "output": "Ladies and gentlemen, a bridge over water, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A painting on a wall",
+    "output": "Behold, a painting on a wall, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make formal: A cup on a saucer",
+    "output": "Observational data shows a cup on a saucer, documented for research purposes"
+  },
+  {
+    "input": "Make formal: A dog sitting on grass",
+    "output": "The composition illustrates a dog sitting on grass, demonstrating key structural elements"
+  },
+  {
+    "input": "Make funny: Books on a shelf",
+    "output": "When you see books on a shelf just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A mirror reflecting light",
+    "output": "Behold! a mirror reflecting light, serving looks since forever"
+  },
+  {
+    "input": "Make formal: Children playing in a park",
+    "output": "The photographic documentation depicts children playing in a park, as recorded in the visual archive"
+  },
+  {
+    "input": "Make formal: Books on a shelf",
+    "output": "The photographic documentation depicts books on a shelf, as recorded in the visual archive"
+  },
+  {
+    "input": "Make funny: A person reading a book",
+    "output": "Ladies and gentlemen, a person reading a book, and it's iconic"
+  },
+  {
+    "input": "Make poetic: Clouds in the sky",
+    "output": "Here dwells clouds in the sky, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: A bag on the floor",
+    "output": "Sir/Madam, this is a bag on the floor and we're not ready"
+  },
+  {
+    "input": "Make poetic: Food on a plate",
+    "output": "Soft and serene, food on a plate, bathed in gentle radiance"
+  },
+  {
+    "input": "Make formal: A bird flying in the sky",
+    "output": "Observational data shows a bird flying in the sky, documented for research purposes"
+  },
+  {
+    "input": "Make short: A tree in the forest",
+    "output": "Tree in forest"
+  },
+  {
+    "input": "Make funny: A person holding a cup of coffee",
+    "output": "The council has unanimously agreed that a person holding a cup of coffee is art"
+  },
+  {
+    "input": "Make poetic: A candle burning brightly",
+    "output": "In this frame, a candle burning brightly, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: A sunset over mountains",
+    "output": "In quiet repose, a sunset over mountains, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make funny: Food on a plate",
+    "output": "Ladies and gentlemen, food on a plate, and it's iconic"
+  },
+  {
+    "input": "Make short: A window with curtains",
+    "output": "Window with curtains"
+  },
+  {
+    "input": "Make funny: A plate with food",
+    "output": "Ladies and gentlemen, a plate with food, and it's iconic"
+  },
+  {
+    "input": "Make funny: A cat playing with a toy",
+    "output": "a cat playing with a toy - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: A cat playing with a toy",
+    "output": "Sir/Madam, this is a cat playing with a toy and we're not ready"
+  },
+  {
+    "input": "Make formal: A laptop on a desk",
+    "output": "Observational data shows a laptop on a desk, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A lamp on a nightstand",
+    "output": "Through the lens, a lamp on a nightstand, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A door with a handle",
+    "output": "Behold! a door with a handle, serving looks since forever"
+  },
+  {
+    "input": "Make poetic: A pair of shoes by the door",
+    "output": "Through the lens, a pair of shoes by the door, forever preserved in beauty"
+  },
+  {
+    "input": "Make formal: A mirror reflecting light",
+    "output": "Observational data shows a mirror reflecting light, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A window with curtains",
+    "output": "In this frame, a window with curtains, where stillness meets grace"
+  },
+  {
+    "input": "Make formal: A car parked on the street",
+    "output": "The composition illustrates a car parked on the street, demonstrating key structural elements"
+  },
+  {
+    "input": "Make formal: A bag on the floor",
+    "output": "The visual medium depicts a bag on the floor, catalogued in the archival system"
+  },
+  {
+    "input": "Make poetic: Children playing in a park",
+    "output": "children playing in a park, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make poetic: A painting on a wall",
+    "output": "Upon this canvas, a painting on a wall, painted by light divine"
+  },
+  {
+    "input": "Make funny: A cup on a saucer",
+    "output": "POV: You're witnessing a cup on a saucer and it's everything"
+  },
+  {
+    "input": "Make funny: A bag on the floor",
+    "output": "Behold! a bag on the floor, serving looks since forever"
+  },
+  {
+    "input": "Make funny: A picture frame on a shelf",
+    "output": "Ladies and gentlemen, a picture frame on a shelf, and it's iconic"
+  },
+  {
+    "input": "Make formal: A dog running in a field",
+    "output": "Visual analysis reveals a dog running in a field, preserved for observational documentation"
+  },
+  {
+    "input": "Make formal: A clock on the wall",
+    "output": "The composition illustrates a clock on the wall, demonstrating key structural elements"
+  },
+  {
+    "input": "Make formal: A bag on the floor",
+    "output": "Documentation indicates a bag on the floor, recorded in high-resolution format"
+  },
+  {
+    "input": "Make poetic: A spoon on the table",
+    "output": "In this frame, a spoon on the table, where stillness meets grace"
+  },
+  {
+    "input": "Make funny: A flower in a garden",
+    "output": "a flower in a garden - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: A cup on a saucer",
+    "output": "Behold, a cup on a saucer, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make funny: A window with curtains",
+    "output": "The council has unanimously agreed that a window with curtains is art"
+  },
+  {
+    "input": "Make poetic: A bicycle on a path",
+    "output": "Here dwells a bicycle on a path, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make formal: A cat playing with a toy",
+    "output": "Observational data shows a cat playing with a toy, documented for research purposes"
+  },
+  {
+    "input": "Make poetic: A lamp on a nightstand",
+    "output": "Witness a lamp on a nightstand, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make funny: A bicycle on a path",
+    "output": "POV: You're witnessing a bicycle on a path and it's everything"
+  },
+  {
+    "input": "Make poetic: A cat sleeping on a bed",
+    "output": "Witness a cat sleeping on a bed, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make funny: A mirror reflecting light",
+    "output": "a mirror reflecting light - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make formal: A dog running in a field",
+    "output": "This image presents a dog running in a field, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make poetic: A cup on a saucer",
+    "output": "In quiet repose, a cup on a saucer, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make funny: A sunset over mountains",
+    "output": "Plot twist: a sunset over mountains, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: A bicycle on a path",
+    "output": "Through the lens, a bicycle on a path, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A dog running in a field",
+    "output": "Ladies and gentlemen, a dog running in a field, and it's iconic"
+  },
+  {
+    "input": "Make funny: A cat playing with a toy",
+    "output": "When you see a cat playing with a toy just existing flawlessly"
+  },
+  {
+    "input": "Make poetic: A plate with food",
+    "output": "Soft and serene, a plate with food, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: A car parked on the street",
+    "output": "Sir/Madam, this is a car parked on the street and we're not ready"
+  },
+  {
+    "input": "Make poetic: Clouds in the sky",
+    "output": "In quiet repose, clouds in the sky, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make poetic: A chair at a table",
+    "output": "Soft and serene, a chair at a table, bathed in gentle radiance"
+  },
+  {
+    "input": "Make poetic: A hat on a hook",
+    "output": "Upon this canvas, a hat on a hook, painted by light divine"
+  },
+  {
+    "input": "Make formal: A hat on a hook",
+    "output": "The visual medium depicts a hat on a hook, catalogued in the archival system"
+  },
+  {
+    "input": "Make formal: A dog running in a field",
+    "output": "Documentation indicates a dog running in a field, recorded in high-resolution format"
+  },
+  {
+    "input": "Make formal: A person holding a cup of coffee",
+    "output": "Observational data shows a person holding a cup of coffee, documented for research purposes"
+  },
+  {
+    "input": "Make funny: A lamp on a nightstand",
+    "output": "POV: You're witnessing a lamp on a nightstand and it's everything"
+  },
+  {
+    "input": "Make funny: A window with curtains",
+    "output": "Nobody asked but here's a window with curtains living its best life"
+  },
+  {
+    "input": "Make formal: A lamp on a nightstand",
+    "output": "The photographic documentation depicts a lamp on a nightstand, as recorded in the visual archive"
+  },
+  {
+    "input": "Make formal: Books on a shelf",
+    "output": "Visual analysis reveals books on a shelf, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: Children playing in a park",
+    "output": "Sir/Madam, this is children playing in a park and we're not ready"
+  },
+  {
+    "input": "Make funny: A laptop on a desk",
+    "output": "Breaking: a laptop on a desk, caught being ridiculously perfect"
+  },
+  {
+    "input": "Make formal: A window with curtains",
+    "output": "The visual medium depicts a window with curtains, catalogued in the archival system"
+  },
+  {
+    "input": "Make formal: A sunset over mountains",
+    "output": "This image presents a sunset over mountains, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make poetic: A lamp on a nightstand",
+    "output": "Soft and serene, a lamp on a nightstand, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: A cat sleeping on a bed",
+    "output": "Ladies and gentlemen, a cat sleeping on a bed, and it's iconic"
+  },
+  {
+    "input": "Make funny: A person holding a cup of coffee",
+    "output": "When you see a person holding a cup of coffee just existing flawlessly"
+  },
+  {
+    "input": "Make funny: A tree in the forest",
+    "output": "a tree in the forest - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: A laptop on a desk",
+    "output": "Witness a laptop on a desk, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make formal: A window with curtains",
+    "output": "The photographic documentation depicts a window with curtains, as recorded in the visual archive"
+  },
+  {
+    "input": "Make poetic: A bowl of fruit",
+    "output": "Behold, a bowl of fruit, captured in time's gentle embrace"
+  },
+  {
+    "input": "Make formal: A phone on a table",
+    "output": "The captured frame presents a phone on a table, as evidenced in the visual record"
+  },
+  {
+    "input": "Make funny: A plate with food",
+    "output": "Nobody asked but here's a plate with food living its best life"
+  },
+  {
+    "input": "Make poetic: A bird flying in the sky",
+    "output": "Where a bird flying in the sky rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: A clock on the wall",
+    "output": "a clock on the wall - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: A painting on a wall",
+    "output": "The council has unanimously agreed that a painting on a wall is art"
+  },
+  {
+    "input": "Make poetic: A car parked on the street",
+    "output": "In this frame, a car parked on the street, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: A bag on the floor",
+    "output": "Here dwells a bag on the floor, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make poetic: People walking on a beach",
+    "output": "Upon this canvas, people walking on a beach, painted by light divine"
+  },
+  {
+    "input": "Make formal: A person holding a cup of coffee",
+    "output": "This image presents a person holding a cup of coffee, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make formal: People walking on a beach",
+    "output": "Documentation indicates people walking on a beach, recorded in high-resolution format"
+  },
+  {
+    "input": "Make poetic: A car parked on the street",
+    "output": "In quiet repose, a car parked on the street, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make formal: A door with a handle",
+    "output": "Visual analysis reveals a door with a handle, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: A computer monitor on a desk",
+    "output": "Plot twist: a computer monitor on a desk, absolutely slaying the game"
+  },
+  {
+    "input": "Make funny: A laptop on a desk",
+    "output": "Ladies and gentlemen, a laptop on a desk, and it's iconic"
+  },
+  {
+    "input": "Make funny: A candle burning brightly",
+    "output": "Behold! a candle burning brightly, serving looks since forever"
+  },
+  {
+    "input": "Make funny: Clouds in the sky",
+    "output": "Nobody asked but here's clouds in the sky living its best life"
+  },
+  {
+    "input": "Make formal: A painting on a wall",
+    "output": "The captured frame presents a painting on a wall, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A bird flying in the sky",
+    "output": "a bird flying in the sky, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make funny: A person holding a cup of coffee",
+    "output": "a person holding a cup of coffee - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make poetic: A window with curtains",
+    "output": "a window with curtains, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make funny: A flower in a garden",
+    "output": "When you see a flower in a garden just existing flawlessly"
+  },
+  {
+    "input": "Make funny: Children playing in a park",
+    "output": "Nobody asked but here's children playing in a park living its best life"
+  },
+  {
+    "input": "Make formal: A plant in a pot",
+    "output": "The photographic documentation depicts a plant in a pot, as recorded in the visual archive"
+  },
+  {
+    "input": "Make funny: A clock on the wall",
+    "output": "Plot twist: a clock on the wall, absolutely slaying the game"
+  },
+  {
+    "input": "Make formal: A bowl of fruit",
+    "output": "The visual medium depicts a bowl of fruit, catalogued in the archival system"
+  },
+  {
+    "input": "Make short: A pair of shoes by the door",
+    "output": "Pair of shoes by"
+  },
+  {
+    "input": "Make poetic: A mirror reflecting light",
+    "output": "Through the lens, a mirror reflecting light, forever preserved in beauty"
+  },
+  {
+    "input": "Make formal: A clock on the wall",
+    "output": "Visual analysis reveals a clock on the wall, preserved for observational documentation"
+  },
+  {
+    "input": "Make poetic: A dog sitting on grass",
+    "output": "In this frame, a dog sitting on grass, where stillness meets grace"
+  },
+  {
+    "input": "Make poetic: A clock on the wall",
+    "output": "Soft and serene, a clock on the wall, bathed in gentle radiance"
+  },
+  {
+    "input": "Make funny: A window with curtains",
+    "output": "When you see a window with curtains just existing flawlessly"
+  },
+  {
+    "input": "Make poetic: A computer monitor on a desk",
+    "output": "a computer monitor on a desk, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make funny: A cat sleeping on a bed",
+    "output": "Nobody asked but here's a cat sleeping on a bed living its best life"
+  },
+  {
+    "input": "Make funny: A building in the city",
+    "output": "Plot twist: a building in the city, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: A plant in a pot",
+    "output": "In this frame, a plant in a pot, where stillness meets grace"
+  },
+  {
+    "input": "Make formal: A dog sitting on grass",
+    "output": "Documentation indicates a dog sitting on grass, recorded in high-resolution format"
+  },
+  {
+    "input": "Make poetic: A tree in the forest",
+    "output": "a tree in the forest, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make poetic: Clouds in the sky",
+    "output": "Upon this canvas, clouds in the sky, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A glass of water",
+    "output": "Soft and serene, a glass of water, bathed in gentle radiance"
+  },
+  {
+    "input": "Make formal: A vase with flowers",
+    "output": "Visual analysis reveals a vase with flowers, preserved for observational documentation"
+  },
+  {
+    "input": "Make formal: A bag on the floor",
+    "output": "The photographic documentation depicts a bag on the floor, as recorded in the visual archive"
+  },
+  {
+    "input": "Make funny: A chair at a table",
+    "output": "The council has unanimously agreed that a chair at a table is art"
+  },
+  {
+    "input": "Make funny: A lamp on a nightstand",
+    "output": "Plot twist: a lamp on a nightstand, absolutely slaying the game"
+  },
+  {
+    "input": "Make funny: A hat on a hook",
+    "output": "a hat on a hook - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make funny: A flower in a garden",
+    "output": "Ladies and gentlemen, a flower in a garden, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A hat on a hook",
+    "output": "Through the lens, a hat on a hook, forever preserved in beauty"
+  },
+  {
+    "input": "Make funny: A cat sleeping on a bed",
+    "output": "When you see a cat sleeping on a bed just existing flawlessly"
+  },
+  {
+    "input": "Make formal: A mirror reflecting light",
+    "output": "Visual analysis reveals a mirror reflecting light, preserved for observational documentation"
+  },
+  {
+    "input": "Make poetic: A laptop on a desk",
+    "output": "Here dwells a laptop on a desk, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make funny: People walking on a beach",
+    "output": "The council has unanimously agreed that people walking on a beach is art"
+  },
+  {
+    "input": "Make poetic: A mirror reflecting light",
+    "output": "a mirror reflecting light, a vision of tranquil magnificence"
+  },
+  {
+    "input": "Make formal: A pair of shoes by the door",
+    "output": "Visual analysis reveals a pair of shoes by the door, preserved for observational documentation"
+  },
+  {
+    "input": "Make formal: A vase with flowers",
+    "output": "The visual medium depicts a vase with flowers, catalogued in the archival system"
+  },
+  {
+    "input": "Make formal: A bicycle on a path",
+    "output": "Documentation indicates a bicycle on a path, recorded in high-resolution format"
+  },
+  {
+    "input": "Make formal: A glass of water",
+    "output": "Visual analysis reveals a glass of water, preserved for observational documentation"
+  },
+  {
+    "input": "Make funny: A plant in a pot",
+    "output": "POV: You're witnessing a plant in a pot and it's everything"
+  },
+  {
+    "input": "Make poetic: A door with a handle",
+    "output": "In quiet repose, a door with a handle, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make poetic: A clock on the wall",
+    "output": "Through the lens, a clock on the wall, forever preserved in beauty"
+  },
+  {
+    "input": "Make poetic: A tree in the forest",
+    "output": "Where a tree in the forest rests, serenity whispers its ancient tale"
+  },
+  {
+    "input": "Make funny: A phone on a table",
+    "output": "a phone on a table - 10/10, would recommend, no notes"
+  },
+  {
+    "input": "Make formal: A person reading a book",
+    "output": "The photographic documentation depicts a person reading a book, as recorded in the visual archive"
+  },
+  {
+    "input": "Make funny: Clouds in the sky",
+    "output": "Plot twist: clouds in the sky, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: A bridge over water",
+    "output": "In this frame, a bridge over water, where stillness meets grace"
+  },
+  {
+    "input": "Make formal: A flower in a garden",
+    "output": "The photographic documentation depicts a flower in a garden, as recorded in the visual archive"
+  },
+  {
+    "input": "Make funny: A cat playing with a toy",
+    "output": "Ladies and gentlemen, a cat playing with a toy, and it's iconic"
+  },
+  {
+    "input": "Make poetic: A computer monitor on a desk",
+    "output": "Here dwells a computer monitor on a desk, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make formal: A cat sleeping on a bed",
+    "output": "Observational data shows a cat sleeping on a bed, documented for research purposes"
+  },
+  {
+    "input": "Make short: A flower in a garden",
+    "output": "Flower in garden"
+  },
+  {
+    "input": "Make formal: A tree in the forest",
+    "output": "This image presents a tree in the forest, captured through standardized imaging methodology"
+  },
+  {
+    "input": "Make short: People walking on a beach",
+    "output": "People walking on beach"
+  },
+  {
+    "input": "Make funny: A laptop on a desk",
+    "output": "POV: You're witnessing a laptop on a desk and it's everything"
+  },
+  {
+    "input": "Make short: A mirror reflecting light",
+    "output": "Mirror reflecting light"
+  },
+  {
+    "input": "Make poetic: A bag on the floor",
+    "output": "In this frame, a bag on the floor, where stillness meets grace"
+  },
+  {
+    "input": "Make funny: A computer monitor on a desk",
+    "output": "Ladies and gentlemen, a computer monitor on a desk, and it's iconic"
+  },
+  {
+    "input": "Make funny: A phone on a table",
+    "output": "Sir/Madam, this is a phone on a table and we're not ready"
+  },
+  {
+    "input": "Make formal: A sunset over mountains",
+    "output": "The captured frame presents a sunset over mountains, as evidenced in the visual record"
+  },
+  {
+    "input": "Make poetic: A hat on a hook",
+    "output": "Here dwells a hat on a hook, a moment of ethereal beauty"
+  },
+  {
+    "input": "Make formal: A cup on a saucer",
+    "output": "The composition illustrates a cup on a saucer, demonstrating key structural elements"
+  },
+  {
+    "input": "Make poetic: A mirror reflecting light",
+    "output": "Upon this canvas, a mirror reflecting light, painted by light divine"
+  },
+  {
+    "input": "Make poetic: A cup on a saucer",
+    "output": "Witness a cup on a saucer, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make short: A bowl of fruit",
+    "output": "Bowl of fruit"
+  },
+  {
+    "input": "Make funny: A cat playing with a toy",
+    "output": "POV: You're witnessing a cat playing with a toy and it's everything"
+  },
+  {
+    "input": "Make funny: A painting on a wall",
+    "output": "Plot twist: a painting on a wall, absolutely slaying the game"
+  },
+  {
+    "input": "Make poetic: Food on a plate",
+    "output": "In quiet repose, food on a plate, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make formal: A bowl of fruit",
+    "output": "Documentation indicates a bowl of fruit, recorded in high-resolution format"
+  },
+  {
+    "input": "Make formal: A painting on a wall",
+    "output": "The photographic documentation depicts a painting on a wall, as recorded in the visual archive"
+  },
+  {
+    "input": "Make funny: A candle burning brightly",
+    "output": "Nobody asked but here's a candle burning brightly living its best life"
+  },
+  {
+    "input": "Make poetic: A bridge over water",
+    "output": "Witness a bridge over water, a symphony frozen in eternal time"
+  },
+  {
+    "input": "Make poetic: A spoon on the table",
+    "output": "In quiet repose, a spoon on the table, dwelling in peaceful harmony"
+  },
+  {
+    "input": "Make funny: A glass of water",
+    "output": "Nobody asked but here's a glass of water living its best life"
+  },
+  {
+    "input": "Make poetic: A window with curtains",
+    "output": "Where a window with curtains rests, serenity whispers its ancient tale"
+  }
+]
